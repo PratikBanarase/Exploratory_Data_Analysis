@@ -1,0 +1,1001 @@
+customer_id,age,gender,city,annual_income,membership,product_category,quantity,discount_pct,purchase_amount,payment_method,purchase_date,visits_per_month,days_since_last_purchase,satisfaction_score,returned
+C0001,39,Female,Bengaluru,934000.0,Basic,Sports,3,25,20893.4,UPI,2025-11-07,5.0,6,4.0,No
+C0002,26,Male,Delhi,1060000.0,Silver,Clothing,5,15,18538.95,UPI,2025-05-08,6.0,16,3.0,No
+C0003,44,Male,Pune,,Basic,Clothing,2,10,5805.73,UPI,2025-01-13,5.0,27,2.0,Yes
+C0004,45,Male,Nashik,1068000.0,Basic,Home & Kitchen,1,10,3708.93,UPI,2025-09-24,1.0,53,3.0,Yes
+C0005,18,Male,Bengaluru,605000.0,Basic,Clothing,2,0,3905.41,Cash on Delivery,2025-09-07,5.0,22,4.0,Yes
+C0006,23,Male,Mumbai,721000.0,Silver,Clothing,1,5,3203.91,UPI,2025-01-25,3.0,8,3.0,No
+C0007,37,Female,Bengaluru,908000.0,Gold,Sports,2,15,9295.3,Credit Card,2025-01-19,3.0,48,4.0,No
+C0008,33,Female,Nashik,755000.0,Basic,Grocery,2,10,2704.35,Debit Card,2025-02-12,3.0,59,4.0,No
+C0009,36,Female,Delhi,998000.0,Silver,Home & Kitchen,3,10,11325.89,Cash on Delivery,2025-01-19,4.0,1,3.0,No
+C0010,27,Male,Delhi,657000.0,Basic,Grocery,1,0,1448.67,UPI,2025-08-13,4.0,46,3.0,No
+C0011,45,Male,Pune,1041000.0,Silver,Beauty,3,15,9247.59,UPI,2025-02-18,,24,3.0,No
+C0012,44,Male,Mumbai,1069000.0,Gold,Beauty,1,5,5064.06,Net Banking,2025-08-10,5.0,13,4.0,No
+C0013,37,Female,Nagpur,1161000.0,Gold,Grocery,2,0,3609.05,UPI,2025-03-06,3.0,65,4.0,No
+C0014,47,Female,Pune,1083000.0,Gold,Clothing,3,30,13708.87,Debit Card,2025-12-21,3.0,4,,No
+C0015,41,Male,Mumbai,1330000.0,Gold,Electronics,3,10,52605.52,Debit Card,2025-09-22,3.0,22,3.0,No
+C0016,27,Female,Delhi,746000.0,Basic,Grocery,1,10,1326.84,Credit Card,2025-05-17,,26,3.0,No
+C0017,40,Male,Pune,1009000.0,Basic,Beauty,2,30,2180.11,UPI,2025-06-06,4.0,2,3.0,No
+C0018,26,Male,Mumbai,590000.0,Basic,Grocery,4,5,8128.33,UPI,2025-01-24,6.0,13,3.0,No
+C0019,45,Male,Delhi,1058000.0,Silver,Electronics,3,30,36539.83,Credit Card,2025-01-21,6.0,5,5.0,No
+C0020,36,Male,Mumbai,1027000.0,Basic,Clothing,4,15,12898.74,Credit Card,2025-07-16,3.0,7,3.0,No
+C0021,34,Female,Nagpur,1008000.0,Gold,Grocery,1,15,3417.51,Debit Card,2025-01-09,5.0,27,3.0,No
+C0022,29,Female,Delhi,847000.0,Gold,Beauty,4,0,12599.35,Debit Card,2025-08-21,3.0,18,3.0,No
+C0023,48,Male,Nagpur,1192000.0,Silver,Electronics,3,0,54518.42,Cash on Delivery,2025-05-20,2.0,16,,No
+C0024,34,Female,Pune,958000.0,Silver,Grocery,2,10,3141.68,Net Banking,2025-02-20,6.0,68,3.0,Yes
+C0025,32,Female,Pune,1070000.0,Basic,Home & Kitchen,1,0,4625.44,Debit Card,2025-07-15,5.0,3,4.0,No
+C0026,32,Female,Delhi,863000.0,Basic,Sports,1,0,3646.02,UPI,2025-07-21,3.0,1,2.0,No
+C0027,41,Female,Mumbai,,Gold,Electronics,5,10,196281.43,Credit Card,2025-09-30,5.0,54,4.0,No
+C0028,40,Male,Nagpur,789000.0,Silver,Sports,3,15,14271.56,Debit Card,2025-03-14,3.0,5,4.0,No
+C0029,40,Female,Pune,855000.0,Basic,Grocery,5,0,9055.3,Credit Card,2025-07-19,4.0,23,3.0,Yes
+C0030,40,Male,Mumbai,,Gold,Home & Kitchen,2,20,14837.2,UPI,2025-11-05,6.0,41,4.0,No
+C0031,57,Female,Delhi,1708000.0,Gold,Electronics,4,30,96123.33,Credit Card,2025-04-09,2.0,16,4.0,No
+C0032,32,Male,Nagpur,863000.0,Basic,Grocery,2,20,2613.32,UPI,2025-11-01,2.0,11,4.0,No
+C0033,31,Female,Delhi,803000.0,Basic,Grocery,3,15,2824.23,UPI,2025-09-22,3.0,7,3.0,No
+C0034,28,Male,Mumbai,1017000.0,Silver,Clothing,4,15,12188.1,Cash on Delivery,2025-06-06,2.0,3,3.0,No
+C0035,42,Male,Nagpur,996000.0,Gold,Grocery,3,5,16832.47,Credit Card,2025-11-19,2.0,6,3.0,No
+C0036,47,Female,Delhi,1459000.0,Gold,Grocery,5,5,33477.25,Credit Card,2025-12-19,5.0,16,4.0,No
+C0037,35,Female,Mumbai,742000.0,Gold,Grocery,2,30,2897.15,Credit Card,2025-03-28,6.0,13,5.0,No
+C0038,28,Male,Mumbai,790000.0,Gold,Electronics,5,15,90120.8,Credit Card,2025-12-24,0.0,16,2.0,No
+C0039,28,Female,Delhi,725000.0,Basic,Grocery,1,15,878.27,UPI,2025-01-01,3.0,9,4.0,No
+C0040,43,Female,Mumbai,844000.0,Basic,Clothing,4,30,10126.39,Credit Card,2025-02-17,4.0,1,3.0,No
+C0041,43,Male,Nagpur,1067000.0,Gold,Beauty,2,0,7392.5,UPI,2025-01-16,6.0,26,4.0,No
+C0042,41,Female,Delhi,1006000.0,Basic,Sports,3,5,14328.27,Debit Card,2025-05-15,2.0,4,3.0,No
+C0043,29,Female,Pune,883000.0,Gold,Clothing,3,15,23060.98,UPI,2025-12-08,5.0,59,4.0,No
+C0044,38,Female,Mumbai,1391000.0,Gold,Electronics,3,0,70443.19,Net Banking,2025-08-08,3.0,1,4.0,No
+C0045,37,Male,Pune,863000.0,Silver,Clothing,3,10,13091.03,Debit Card,2025-08-14,6.0,19,4.0,No
+C0046,38,Male,Mumbai,973000.0,Gold,Grocery,2,20,3562.37,Credit Card,2025-01-31,3.0,5,4.0,No
+C0047,45,Female,Pune,1078000.0,Gold,Beauty,3,10,11017.18,UPI,2025-07-08,4.0,3,3.0,No
+C0048,38,Female,Bengaluru,1164000.0,Gold,Grocery,6,5,13111.59,Credit Card,2025-05-20,6.0,2,4.0,No
+C0049,43,Female,Pune,939000.0,Silver,Electronics,3,15,41742.61,Debit Card,2025-06-24,2.0,27,3.0,Yes
+C0050,37,Female,Bengaluru,901000.0,Gold,Electronics,3,0,65473.86,Debit Card,2025-04-06,7.0,34,3.0,No
+C0051,39,Female,Mumbai,1216000.0,Gold,Clothing,3,20,15285.97,Debit Card,2025-03-15,5.0,67,5.0,No
+C0052,42,Female,Mumbai,1176000.0,Silver,Beauty,5,0,24544.39,Cash on Delivery,2025-12-14,4.0,54,2.0,No
+C0053,21,Female,Mumbai,378000.0,Basic,Grocery,2,20,1214.8,Credit Card,2025-07-23,1.0,35,3.0,No
+C0054,33,Female,Bengaluru,731000.0,Silver,Grocery,4,10,4566.73,Debit Card,2025-05-31,2.0,116,3.0,No
+C0055,31,Male,Mumbai,1117000.0,Gold,Clothing,2,10,10095.37,Credit Card,2025-01-27,6.0,41,5.0,No
+C0056,30,Male,Mumbai,931000.0,Basic,Sports,1,15,3528.66,Debit Card,2025-10-06,2.0,50,3.0,No
+C0057,33,Female,Delhi,777000.0,Basic,Clothing,1,0,2766.51,Credit Card,2025-06-22,5.0,24,3.0,No
+C0058,51,Male,Nashik,977000.0,Basic,Beauty,1,10,1703.55,Debit Card,2025-05-22,4.0,25,3.0,No
+C0059,27,Male,Pune,738000.0,Basic,Beauty,4,20,8911.96,UPI,2025-09-01,4.0,21,4.0,No
+C0060,46,Female,Delhi,1255000.0,Silver,Grocery,1,20,1998.07,UPI,2025-02-18,5.0,36,4.0,No
+C0061,19,Male,Mumbai,440000.0,Basic,Beauty,4,0,8019.6,UPI,2025-07-14,4.0,2,3.0,No
+C0062,33,Male,Pune,718000.0,Basic,Clothing,1,20,3809.72,Net Banking,2025-11-12,2.0,3,4.0,No
+C0063,38,Female,Nagpur,872000.0,Silver,Grocery,4,20,5060.75,Credit Card,2025-06-19,5.0,36,,No
+C0064,42,Female,Pune,991000.0,Basic,Electronics,1,20,68789.36,UPI,2025-01-01,4.0,25,,No
+C0065,43,Male,Mumbai,1226000.0,Silver,Grocery,4,10,10291.24,Credit Card,2025-03-25,3.0,9,3.0,No
+C0066,44,Male,Bengaluru,953000.0,Gold,Clothing,5,0,37345.04,Credit Card,2025-01-21,5.0,24,4.0,No
+C0067,33,Male,Pune,898000.0,Silver,Electronics,3,30,32215.96,Cash on Delivery,2025-07-02,5.0,12,3.0,No
+C0068,31,Female,Bengaluru,1039000.0,Basic,Electronics,4,5,32843.97,Net Banking,2025-05-14,5.0,1,4.0,No
+C0069,45,Female,Delhi,1198000.0,Gold,Clothing,4,5,15369.11,Cash on Delivery,2025-02-18,5.0,11,4.0,No
+C0070,34,Male,Nashik,773000.0,Gold,Grocery,3,15,5556.79,Cash on Delivery,2025-09-08,5.0,15,4.0,No
+C0071,23,Female,Bengaluru,699000.0,Basic,Grocery,4,5,3238.4,UPI,2025-03-06,5.0,21,3.0,No
+C0072,25,Male,Bengaluru,629000.0,Basic,Clothing,4,20,13812.5,UPI,2025-05-05,3.0,53,3.0,No
+C0073,27,Male,Delhi,764000.0,Basic,Sports,5,0,31314.4,Credit Card,2025-12-27,1.0,1,4.0,No
+C0074,41,Female,Mumbai,1288000.0,Gold,Sports,2,15,11065.31,Debit Card,2025-01-25,4.0,20,5.0,No
+C0075,37,Male,Pune,898000.0,Silver,Electronics,2,30,16821.58,UPI,2025-04-01,3.0,2,3.0,No
+C0076,43,Male,Nagpur,,Basic,Clothing,3,30,9222.95,Debit Card,2025-04-27,2.0,9,4.0,No
+C0077,32,Male,Nagpur,666000.0,Basic,Grocery,6,30,4744.79,UPI,2025-07-05,5.0,8,4.0,Yes
+C0078,38,Female,Pune,964000.0,Basic,Home & Kitchen,2,20,7671.27,UPI,2025-03-31,3.0,101,4.0,No
+C0079,42,Female,Nashik,814000.0,Basic,Clothing,2,5,7377.2,UPI,2025-12-21,3.0,17,2.0,No
+C0080,33,Female,Pune,917000.0,Silver,Home & Kitchen,2,30,10222.15,Cash on Delivery,2025-01-02,7.0,6,3.0,No
+C0081,41,Male,Delhi,1125000.0,Silver,Electronics,2,30,39175.93,Debit Card,2025-12-13,6.0,5,3.0,No
+C0082,29,Male,Mumbai,984000.0,Silver,Clothing,1,10,5463.46,Credit Card,2025-07-15,4.0,1,4.0,No
+C0083,32,Female,Pune,1040000.0,Silver,Home & Kitchen,5,10,44159.91,Cash on Delivery,2025-01-14,5.0,8,3.0,No
+C0084,32,Male,Pune,975000.0,Gold,Grocery,3,0,7967.85,Cash on Delivery,2025-02-12,3.0,9,3.0,No
+C0085,24,Female,Mumbai,607000.0,Basic,Beauty,5,10,10573.2,Credit Card,2025-02-07,2.0,13,3.0,No
+C0086,41,Female,Mumbai,963000.0,Silver,Electronics,3,15,35406.21,Cash on Delivery,2025-04-15,1.0,17,3.0,No
+C0087,31,Male,Pune,797000.0,Basic,Electronics,2,10,13048.0,UPI,2025-05-02,1.0,17,3.0,No
+C0088,36,Female,Mumbai,928000.0,Silver,Electronics,7,10,85867.03,Credit Card,2025-08-23,1.0,7,4.0,No
+C0089,41,Male,Pune,817000.0,Silver,Electronics,2,10,22254.81,UPI,2025-04-24,6.0,3,4.0,No
+C0090,40,Male,Mumbai,1012000.0,Gold,Electronics,2,0,35932.89,Credit Card,2025-09-22,7.0,6,4.0,No
+C0091,43,Female,Mumbai,1069000.0,Gold,Grocery,4,30,6125.16,Credit Card,2025-04-18,4.0,69,4.0,Yes
+C0092,35,Female,Mumbai,874000.0,Silver,Grocery,3,5,5108.1,UPI,2025-04-07,1.0,50,2.0,No
+C0093,32,Female,Mumbai,865000.0,Silver,Grocery,2,0,4672.82,Credit Card,2025-04-11,7.0,6,3.0,No
+C0094,35,Female,Pune,1057000.0,Silver,Clothing,2,0,12905.54,Debit Card,2025-05-01,0.0,49,3.0,Yes
+C0095,19,Female,Pune,622000.0,Silver,Electronics,1,25,8680.45,Debit Card,2025-11-02,4.0,3,4.0,No
+C0096,22,Female,Pune,1017000.0,Basic,Home & Kitchen,3,20,11048.91,UPI,2025-04-01,2.0,11,4.0,No
+C0097,23,Female,Bengaluru,739000.0,Basic,Electronics,3,0,30096.17,UPI,2025-04-10,0.0,67,4.0,No
+C0098,26,Male,Delhi,712000.0,Basic,Beauty,2,0,6446.75,UPI,2025-12-16,6.0,5,4.0,No
+C0099,40,Female,Delhi,1028000.0,Gold,Electronics,5,10,90666.37,Cash on Delivery,2025-08-27,5.0,29,3.0,No
+C0100,27,Female,Nagpur,702000.0,Basic,Grocery,2,0,2556.95,Cash on Delivery,2025-03-11,6.0,16,3.0,No
+C0101,32,Male,Nagpur,805000.0,Basic,Beauty,2,20,5417.11,UPI,2025-11-13,1.0,17,4.0,No
+C0102,49,Male,Mumbai,1576000.0,Gold,Grocery,3,0,12863.87,Debit Card,2025-03-08,3.0,25,4.0,No
+C0103,32,Male,Bengaluru,768000.0,Basic,Grocery,1,10,1435.58,Credit Card,2025-03-01,2.0,82,3.0,No
+C0104,43,Male,Bengaluru,1246000.0,Gold,Home & Kitchen,6,5,43252.3,Net Banking,2025-06-12,6.0,17,5.0,No
+C0105,27,Female,Delhi,806000.0,Basic,Electronics,3,10,36887.1,UPI,2025-09-10,1.0,28,4.0,No
+C0106,34,Male,Delhi,675000.0,Basic,Home & Kitchen,3,10,13181.06,Credit Card,2025-03-11,1.0,42,3.0,No
+C0107,26,Female,Mumbai,904000.0,Gold,Beauty,2,5,7890.29,Credit Card,2025-10-02,7.0,7,3.0,No
+C0108,33,Female,Bengaluru,1105000.0,Basic,Sports,1,0,4227.96,UPI,2025-02-27,5.0,16,4.0,No
+C0109,44,Female,Bengaluru,1008000.0,Basic,Grocery,2,5,5934.56,UPI,2025-10-13,3.0,8,4.0,No
+C0110,19,Male,Mumbai,642000.0,Basic,Clothing,4,0,13170.78,UPI,2025-02-04,3.0,12,3.0,No
+C0111,40,Male,Delhi,769000.0,Basic,Home & Kitchen,3,30,13524.97,Credit Card,2025-06-19,3.0,30,4.0,No
+C0112,38,Female,Pune,745000.0,Basic,Grocery,6,5,12565.66,Debit Card,2025-08-22,0.0,19,4.0,No
+C0113,30,Female,Delhi,990000.0,Silver,Clothing,6,5,28890.84,Debit Card,2025-04-07,3.0,1,4.0,No
+C0114,22,Female,Bengaluru,624000.0,Silver,Electronics,3,0,34938.36,UPI,2025-08-12,4.0,1,4.0,No
+C0115,37,Female,Pune,750000.0,Silver,Electronics,4,15,63905.84,Cash on Delivery,2025-09-09,8.0,47,4.0,No
+C0116,31,Male,Bengaluru,909000.0,Silver,Grocery,2,30,3226.21,UPI,2025-08-26,1.0,21,4.0,No
+C0117,38,Female,Pune,856000.0,Basic,Electronics,3,15,57899.47,Net Banking,2025-05-25,2.0,28,3.0,No
+C0118,36,Male,Bengaluru,905000.0,Gold,Electronics,4,15,98694.96,UPI,2025-10-10,4.0,39,5.0,No
+C0119,52,Male,Bengaluru,1409000.0,Gold,Electronics,6,20,141884.93,Cash on Delivery,2025-09-25,5.0,14,3.0,No
+C0120,34,Female,Nashik,578000.0,Basic,Sports,3,10,10091.19,Cash on Delivery,2025-04-30,2.0,5,3.0,No
+C0121,26,Male,Delhi,620000.0,Basic,Electronics,3,20,26220.78,Cash on Delivery,2025-09-25,4.0,30,2.0,No
+C0122,38,Male,Pune,957000.0,Basic,Electronics,8,15,119728.81,Cash on Delivery,2025-12-02,2.0,27,3.0,No
+C0123,38,Male,Mumbai,1182000.0,Gold,Grocery,4,5,16143.84,UPI,2025-10-26,2.0,46,3.0,No
+C0124,50,Male,Mumbai,1471000.0,Gold,Clothing,4,10,28238.35,Debit Card,2025-09-25,4.0,66,4.0,No
+C0125,44,Female,Pune,942000.0,Silver,Sports,2,10,16929.0,Credit Card,2025-10-07,3.0,2,4.0,No
+C0126,40,Male,Mumbai,1219000.0,Silver,Beauty,2,5,8410.1,Credit Card,2025-10-21,2.0,1,3.0,No
+C0127,51,Female,Mumbai,1188000.0,Basic,Clothing,3,20,8995.3,Net Banking,2025-04-16,3.0,98,4.0,No
+C0128,24,Female,Mumbai,1021000.0,Gold,Grocery,4,0,10016.56,UPI,2025-09-21,9.0,23,5.0,No
+C0129,30,Male,Mumbai,701000.0,Basic,Clothing,3,15,5921.29,Credit Card,2025-03-14,6.0,51,3.0,No
+C0130,27,Male,Delhi,974000.0,Gold,Electronics,1,30,19700.31,Cash on Delivery,2025-05-11,5.0,2,3.0,Yes
+C0131,32,Female,Mumbai,814000.0,Silver,Clothing,3,10,13046.29,UPI,2025-12-08,6.0,27,4.0,No
+C0132,22,Female,Delhi,980000.0,Silver,Electronics,6,5,120255.63,UPI,2025-04-14,2.0,75,4.0,No
+C0133,42,Female,Mumbai,1208000.0,Silver,Electronics,3,15,67844.17,UPI,2025-11-04,1.0,135,4.0,No
+C0134,34,Female,Mumbai,801000.0,Silver,Grocery,1,20,1495.72,Debit Card,2025-06-04,3.0,44,4.0,No
+C0135,21,Male,Nagpur,493000.0,Basic,Electronics,1,0,9697.72,Cash on Delivery,2025-03-18,4.0,46,3.0,No
+C0136,26,Male,Mumbai,905000.0,Basic,Electronics,1,5,10556.3,UPI,2025-02-05,1.0,39,3.0,No
+C0137,39,Female,Mumbai,1215000.0,Gold,Grocery,3,10,6282.44,Debit Card,2025-07-20,3.0,4,3.0,No
+C0138,44,Male,Nagpur,913000.0,Basic,Grocery,6,30,10175.02,Credit Card,2025-06-14,2.0,29,4.0,No
+C0139,56,Female,Pune,1265000.0,Gold,Electronics,6,5,137969.25,Debit Card,2025-07-06,4.0,13,5.0,No
+C0140,65,Female,Mumbai,1709000.0,Silver,Electronics,2,5,55065.3,Debit Card,2025-01-16,4.0,10,2.0,No
+C0141,40,Female,Nagpur,882000.0,Gold,Electronics,1,30,19439.53,Net Banking,2025-04-08,9.0,8,3.0,No
+C0142,26,Male,Mumbai,594000.0,Silver,Clothing,2,0,6317.58,UPI,2025-01-02,2.0,4,2.0,No
+C0143,18,Male,Delhi,478000.0,Basic,Beauty,2,0,3591.89,UPI,2025-04-21,9.0,21,4.0,No
+C0144,39,Male,Mumbai,1093000.0,Gold,Beauty,4,10,17657.21,Credit Card,2025-12-06,2.0,1,3.0,No
+C0145,28,Male,Delhi,977000.0,Gold,Clothing,1,0,4201.93,Credit Card,2025-02-25,5.0,38,4.0,No
+C0146,32,Female,Bengaluru,1138000.0,Silver,Clothing,1,0,4625.59,Credit Card,2025-09-09,6.0,1,,No
+C0147,30,Male,Delhi,950000.0,Gold,Home & Kitchen,5,15,44441.75,UPI,2025-01-03,4.0,10,4.0,No
+C0148,35,Male,Delhi,973000.0,Basic,Grocery,1,15,1353.43,UPI,2025-07-25,2.0,17,4.0,No
+C0149,47,Male,Pune,1208000.0,Silver,Electronics,3,10,61807.42,Net Banking,2025-12-03,3.0,40,4.0,No
+C0150,38,Male,Nagpur,731000.0,Silver,Electronics,3,5,35140.02,UPI,2025-05-05,1.0,41,3.0,No
+C0151,34,Female,Pune,839000.0,Gold,Grocery,2,10,7516.98,Credit Card,2025-03-13,6.0,60,3.0,No
+C0152,26,Male,Bengaluru,651000.0,Basic,Grocery,1,15,792.91,Debit Card,2025-07-28,3.0,7,3.0,No
+C0153,19,Female,Nashik,343000.0,Basic,Electronics,2,20,15108.81,UPI,2025-04-12,3.0,8,4.0,No
+C0154,31,Male,Mumbai,942000.0,Basic,Clothing,1,20,3798.37,UPI,2025-11-22,2.0,6,3.0,Yes
+C0155,35,Female,Delhi,958000.0,Gold,Clothing,5,20,25566.01,UPI,2025-11-06,2.0,8,5.0,No
+C0156,54,Male,Pune,1325000.0,Silver,Clothing,1,20,3901.78,Credit Card,2025-08-27,1.0,51,4.0,No
+C0157,37,Male,Nagpur,898000.0,Silver,Grocery,4,20,7708.52,UPI,2025-08-22,11.0,8,3.0,No
+C0158,46,Female,Bengaluru,1214000.0,Gold,Grocery,3,0,10654.38,Debit Card,2025-08-08,2.0,39,4.0,No
+C0159,31,Female,Pune,891000.0,Silver,Grocery,3,30,4467.64,UPI,2025-09-26,1.0,10,4.0,No
+C0160,24,Female,Nashik,598000.0,Silver,Clothing,2,20,6646.46,UPI,2025-06-17,4.0,3,5.0,No
+C0161,26,Male,Bengaluru,836000.0,Basic,Electronics,3,5,68713.41,UPI,2025-12-20,3.0,18,5.0,No
+C0162,29,Male,Pune,663000.0,Basic,Beauty,3,0,6300.21,UPI,2025-05-07,1.0,6,3.0,No
+C0163,57,Female,Nagpur,1178000.0,Silver,Grocery,1,10,1833.31,UPI,2025-01-04,7.0,16,4.0,No
+C0164,28,Male,Mumbai,930000.0,Gold,Electronics,2,10,41085.29,Net Banking,2025-09-12,2.0,12,5.0,No
+C0165,44,Female,Bengaluru,1037000.0,Basic,Clothing,5,15,18929.18,UPI,2025-08-30,4.0,10,3.0,No
+C0166,27,Female,Pune,744000.0,Silver,Beauty,3,10,7048.66,Credit Card,2025-12-25,5.0,32,3.0,No
+C0167,45,Female,Delhi,1031000.0,Silver,Home & Kitchen,3,0,13722.59,Credit Card,2025-05-25,4.0,16,3.0,No
+C0168,40,Female,Delhi,949000.0,Basic,Beauty,2,0,2471.06,Debit Card,2025-06-05,2.0,3,3.0,No
+C0169,34,Female,Pune,693000.0,Basic,Grocery,2,20,2478.64,Debit Card,2025-07-25,2.0,12,,No
+C0170,36,Male,Mumbai,1185000.0,Gold,Grocery,5,0,14192.68,UPI,2025-05-24,3.0,13,4.0,No
+C0171,29,Male,Nashik,838000.0,Silver,Grocery,4,20,6331.68,Debit Card,2025-10-14,4.0,19,4.0,No
+C0172,40,Female,Bengaluru,1137000.0,Basic,Electronics,2,5,33685.72,UPI,2025-06-06,3.0,97,2.0,No
+C0173,31,Female,Mumbai,1188000.0,Gold,Grocery,5,15,17469.94,Debit Card,2025-10-14,8.0,1,3.0,No
+C0174,24,Male,Pune,654000.0,Basic,Grocery,2,10,3357.08,UPI,2025-06-05,4.0,24,4.0,No
+C0175,23,Male,Pune,1119000.0,Gold,Electronics,2,5,46119.87,Debit Card,2025-03-24,6.0,35,4.0,No
+C0176,38,Female,Delhi,955000.0,Silver,Beauty,1,15,2361.33,Debit Card,2025-12-28,4.0,3,3.0,No
+C0177,52,Female,Mumbai,1365000.0,Gold,Clothing,2,15,12644.95,Debit Card,2025-07-12,4.0,46,4.0,No
+C0178,38,Female,Delhi,929000.0,Gold,Electronics,2,0,47674.18,UPI,2025-09-15,5.0,8,5.0,No
+C0179,35,Male,Nagpur,841000.0,Basic,Clothing,2,5,5866.08,Debit Card,2025-08-04,3.0,1,3.0,No
+C0180,39,Male,Delhi,1134000.0,Gold,Beauty,3,15,5856.05,Debit Card,2025-05-12,3.0,49,3.0,No
+C0181,49,Female,Pune,1115000.0,Gold,Beauty,3,15,12808.25,Credit Card,2025-12-21,4.0,30,5.0,No
+C0182,38,Male,Pune,1201000.0,Gold,Grocery,5,10,9293.83,UPI,2025-05-16,3.0,6,5.0,No
+C0183,32,Female,Delhi,908000.0,Basic,Sports,3,15,19847.15,UPI,2025-12-29,2.0,17,3.0,No
+C0184,47,Female,Delhi,1204000.0,Silver,Beauty,2,0,4904.06,UPI,2025-06-07,5.0,5,3.0,Yes
+C0185,40,Male,Mumbai,942000.0,Gold,Beauty,5,0,25664.36,Debit Card,2025-01-09,4.0,23,5.0,No
+C0186,51,Male,Mumbai,1368000.0,Gold,Beauty,3,15,6026.21,Credit Card,2025-01-14,6.0,15,4.0,No
+C0187,38,Male,Mumbai,1016000.0,Basic,Clothing,3,15,13855.1,Debit Card,2025-12-22,3.0,5,2.0,No
+C0188,24,Female,Mumbai,656000.0,Basic,Home & Kitchen,2,20,11668.84,Debit Card,2025-07-12,3.0,15,4.0,No
+C0189,22,Female,Pune,530000.0,Basic,Grocery,2,0,1918.18,Debit Card,2025-05-22,2.0,46,3.0,No
+C0190,53,Male,Delhi,1681000.0,Gold,Home & Kitchen,3,15,39730.63,Debit Card,2025-10-24,5.0,4,3.0,No
+C0191,53,Female,Mumbai,1308000.0,Gold,Electronics,4,15,73538.16,Debit Card,2025-08-14,6.0,10,3.0,No
+C0192,34,Male,Bengaluru,717000.0,Silver,Home & Kitchen,5,0,26444.36,Credit Card,2025-08-30,5.0,9,4.0,No
+C0193,32,Male,Pune,721000.0,Silver,Sports,6,10,26217.09,UPI,2025-09-08,3.0,60,3.0,No
+C0194,51,Female,Pune,1160000.0,Basic,Clothing,4,15,10226.17,Cash on Delivery,2025-03-14,3.0,1,4.0,No
+C0195,25,Male,Bengaluru,836000.0,Basic,Sports,2,0,8131.44,Net Banking,2025-02-02,3.0,39,4.0,No
+C0196,27,Male,Mumbai,892000.0,Silver,Clothing,5,5,23181.1,Credit Card,2025-09-23,4.0,5,4.0,No
+C0197,42,Female,Bengaluru,1198000.0,Basic,Electronics,3,0,44258.24,Net Banking,2025-01-08,2.0,1,4.0,No
+C0198,32,Male,Pune,729000.0,Basic,Electronics,1,20,7565.82,Net Banking,2025-09-20,3.0,11,4.0,No
+C0199,36,Female,Delhi,1001000.0,Silver,Home & Kitchen,4,0,38368.13,Credit Card,2025-02-17,2.0,16,3.0,No
+C0200,34,Male,Bengaluru,804000.0,Basic,Grocery,2,0,3936.29,Debit Card,2025-04-06,1.0,74,3.0,No
+C0201,39,Male,Delhi,915000.0,Basic,Clothing,1,0,2846.55,Debit Card,2025-09-16,5.0,4,,Yes
+C0202,50,Male,Pune,1012000.0,Silver,Grocery,4,0,6264.23,UPI,2025-08-16,1.0,116,3.0,No
+C0203,37,Male,Mumbai,838000.0,Silver,Clothing,3,5,66118.05,UPI,2025-10-13,3.0,30,3.0,No
+C0204,42,Male,Mumbai,1279000.0,Gold,Grocery,1,10,3136.99,Credit Card,2025-08-11,5.0,2,4.0,No
+C0205,18,Male,Nagpur,629000.0,Silver,Beauty,2,0,4671.48,Cash on Delivery,2025-01-18,5.0,36,4.0,No
+C0206,36,Female,Mumbai,1142000.0,Gold,Grocery,2,10,8508.54,UPI,2025-11-03,7.0,12,4.0,No
+C0207,28,Male,Pune,760000.0,Basic,Home & Kitchen,3,0,15183.73,Cash on Delivery,2025-03-20,5.0,65,3.0,No
+C0208,24,Male,Mumbai,863000.0,Basic,Grocery,5,10,6066.78,Debit Card,2025-02-19,3.0,3,2.0,No
+C0209,27,Male,Mumbai,545000.0,Basic,Sports,5,5,27231.44,Debit Card,2025-11-17,3.0,59,3.0,No
+C0210,33,Male,Mumbai,1063000.0,Gold,Clothing,1,10,4587.37,UPI,2025-03-13,4.0,2,3.0,No
+C0211,45,Male,Pune,1087000.0,Gold,Clothing,4,15,21085.92,Credit Card,2025-07-15,2.0,10,3.0,No
+C0212,23,Female,Mumbai,820000.0,Basic,Electronics,1,15,6687.83,UPI,2025-06-27,5.0,4,4.0,No
+C0213,36,Male,Nashik,838000.0,Basic,Grocery,2,5,3723.79,UPI,2025-10-08,3.0,69,4.0,No
+C0214,31,Female,Mumbai,744000.0,Gold,Grocery,5,20,11941.91,UPI,2025-01-17,2.0,23,5.0,No
+C0215,33,Female,Mumbai,708000.0,Basic,Home & Kitchen,1,15,3766.42,UPI,2025-02-08,4.0,16,4.0,No
+C0216,46,Male,Nagpur,847000.0,Basic,Clothing,4,0,15679.47,UPI,2025-06-01,5.0,5,5.0,No
+C0217,41,Male,Bengaluru,1161000.0,Gold,Electronics,2,10,20386.04,Credit Card,2025-06-22,5.0,1,4.0,No
+C0218,49,Male,Mumbai,1368000.0,Gold,Grocery,2,20,5907.38,Credit Card,2025-10-15,3.0,30,5.0,No
+C0219,34,Female,Nashik,547000.0,Basic,Sports,2,5,6154.96,UPI,2025-08-10,2.0,27,3.0,No
+C0220,29,Male,Delhi,667000.0,Silver,Clothing,1,5,5447.72,Cash on Delivery,2025-02-24,4.0,157,2.0,No
+C0221,34,Female,Nagpur,662000.0,Basic,Electronics,2,15,19828.06,Credit Card,2025-12-24,3.0,11,3.0,No
+C0222,38,Female,Delhi,935000.0,Basic,Clothing,3,0,11919.97,Cash on Delivery,2025-06-17,2.0,32,3.0,No
+C0223,38,Female,Bengaluru,812000.0,Gold,Grocery,2,30,5965.24,Debit Card,2025-12-19,7.0,8,4.0,No
+C0224,25,Female,Pune,487000.0,Silver,Clothing,4,0,14290.85,UPI,2025-12-28,8.0,13,3.0,No
+C0225,37,Female,Mumbai,893000.0,Gold,Clothing,4,0,19546.79,Cash on Delivery,2025-01-19,6.0,19,4.0,No
+C0226,38,Male,Bengaluru,1029000.0,Gold,Grocery,6,0,16957.8,Cash on Delivery,2025-07-04,2.0,23,3.0,No
+C0227,61,Male,Delhi,1259000.0,Silver,Clothing,4,5,12034.37,Debit Card,2025-06-04,4.0,28,2.0,No
+C0228,55,Male,Mumbai,,Gold,Clothing,4,20,18984.58,Credit Card,2025-07-01,2.0,69,3.0,No
+C0229,27,Female,Pune,895000.0,Basic,Electronics,4,20,59239.52,Credit Card,2025-04-24,2.0,15,4.0,No
+C0230,33,Female,Nagpur,560000.0,Basic,Beauty,4,20,6376.59,Credit Card,2025-07-23,2.0,5,3.0,No
+C0231,21,Female,Pune,597000.0,Basic,Clothing,2,10,4646.61,Debit Card,2025-06-29,2.0,21,3.0,No
+C0232,30,Male,Bengaluru,1009000.0,Basic,Clothing,4,10,14360.79,Credit Card,2025-03-09,2.0,28,4.0,No
+C0233,39,Female,Nagpur,784000.0,Silver,Electronics,3,5,48826.2,UPI,2025-04-16,3.0,7,4.0,No
+C0234,48,Female,Bengaluru,1132000.0,Silver,Grocery,3,0,8329.74,UPI,2025-02-23,3.0,12,3.0,No
+C0235,29,Female,Delhi,988000.0,Basic,Beauty,4,25,8185.01,UPI,2025-11-04,4.0,27,3.0,No
+C0236,29,Female,Nashik,632000.0,Silver,Electronics,2,10,35143.12,UPI,2025-09-05,3.0,21,3.0,No
+C0237,18,Male,Nashik,681000.0,Gold,Electronics,2,10,38859.6,UPI,2025-05-22,8.0,19,4.0,No
+C0238,34,Male,Bengaluru,1000000.0,Gold,Electronics,4,10,80272.42,Cash on Delivery,2025-05-25,10.0,2,4.0,No
+C0239,25,Female,Delhi,685000.0,Basic,Grocery,2,15,2084.08,UPI,2025-01-29,7.0,15,4.0,No
+C0240,31,Male,Delhi,925000.0,Silver,Sports,2,0,8016.69,UPI,2025-04-16,5.0,18,4.0,No
+C0241,27,Male,Pune,784000.0,Silver,Grocery,2,15,4029.06,UPI,2025-12-04,,28,5.0,No
+C0242,35,Male,Nagpur,939000.0,Gold,Clothing,4,15,18991.26,Credit Card,2025-01-12,6.0,9,4.0,No
+C0243,18,Male,Pune,492000.0,Basic,Home & Kitchen,6,20,13629.31,Debit Card,2025-02-23,2.0,10,5.0,No
+C0244,21,Female,Delhi,664000.0,Basic,Home & Kitchen,3,5,22347.81,Credit Card,2025-11-05,5.0,22,3.0,No
+C0245,57,Female,Nashik,1082000.0,Gold,Clothing,2,0,16295.69,Net Banking,2025-07-09,7.0,21,4.0,No
+C0246,23,Male,Mumbai,832000.0,Silver,Electronics,3,10,47598.62,Net Banking,2025-01-12,4.0,42,4.0,No
+C0247,25,Male,Pune,546000.0,Basic,Clothing,3,20,5203.58,Cash on Delivery,2025-06-28,4.0,25,2.0,Yes
+C0248,54,Male,Mumbai,1520000.0,Gold,Home & Kitchen,4,35,32864.75,Cash on Delivery,2025-10-01,3.0,23,3.0,No
+C0249,65,Female,Bengaluru,1630000.0,Gold,Home & Kitchen,2,10,20649.88,UPI,2025-05-06,4.0,6,3.0,No
+C0250,24,Female,Pune,484000.0,Silver,Grocery,1,0,1296.41,Credit Card,2025-05-20,2.0,5,2.0,No
+C0251,32,Female,Pune,1007000.0,Gold,Beauty,4,0,15408.7,UPI,2025-08-19,3.0,29,4.0,No
+C0252,39,Male,Delhi,1343000.0,Gold,Clothing,3,15,19500.86,Cash on Delivery,2025-08-07,7.0,25,5.0,No
+C0253,53,Male,Bengaluru,1469000.0,Gold,Clothing,2,5,23189.61,UPI,2025-11-26,6.0,1,4.0,No
+C0254,26,Male,Pune,932000.0,Gold,Electronics,4,10,54774.79,UPI,2025-04-01,4.0,5,4.0,No
+C0255,34,Female,Mumbai,967000.0,Gold,Beauty,4,20,11429.15,UPI,2025-04-11,2.0,18,5.0,No
+C0256,44,Male,Delhi,856000.0,Gold,Grocery,4,5,8633.57,Debit Card,2025-02-26,7.0,16,4.0,No
+C0257,40,Female,Bengaluru,780000.0,Basic,Clothing,1,5,3160.2,Debit Card,2025-08-31,4.0,3,3.0,No
+C0258,32,Female,Nashik,761000.0,Basic,Electronics,3,0,46202.29,UPI,2025-07-14,3.0,42,3.0,No
+C0259,35,Male,Mumbai,886000.0,Silver,Home & Kitchen,2,5,15212.88,Credit Card,2025-05-07,4.0,38,4.0,No
+C0260,22,Male,Mumbai,568000.0,Basic,Home & Kitchen,1,15,5723.86,UPI,2025-09-11,5.0,10,4.0,No
+C0261,34,Male,Pune,853000.0,Gold,Grocery,1,5,2362.01,Cash on Delivery,2025-05-18,4.0,41,4.0,No
+C0262,33,Male,Bengaluru,1008000.0,Basic,Clothing,3,0,11312.54,UPI,2025-03-13,4.0,17,4.0,Yes
+C0263,38,Male,Pune,716000.0,Silver,Beauty,3,0,6550.9,UPI,2025-07-17,5.0,8,3.0,No
+C0264,30,Female,Pune,723000.0,Gold,Home & Kitchen,2,0,9188.52,Debit Card,2025-06-09,5.0,2,3.0,No
+C0265,41,Male,Bengaluru,1303000.0,Gold,Grocery,6,15,19696.01,Credit Card,2025-05-28,10.0,6,5.0,No
+C0266,46,Male,Delhi,983000.0,Basic,Grocery,1,10,1355.05,Cash on Delivery,2025-06-12,3.0,15,2.0,No
+C0267,38,Female,Bengaluru,1147000.0,Gold,Beauty,2,15,9584.74,Credit Card,2025-11-30,6.0,14,4.0,No
+C0268,40,Female,Nagpur,789000.0,Gold,Sports,5,10,31845.32,Net Banking,2025-03-20,6.0,28,4.0,No
+C0269,37,Male,Nagpur,898000.0,Silver,Grocery,3,0,4479.96,UPI,2025-04-11,4.0,6,3.0,No
+C0270,36,Female,Mumbai,1160000.0,Gold,Clothing,1,10,4368.83,Credit Card,2025-07-26,9.0,3,3.0,No
+C0271,29,Female,Mumbai,961000.0,Silver,Clothing,4,0,26219.34,Net Banking,2025-01-18,6.0,11,5.0,No
+C0272,39,Female,Nagpur,983000.0,Silver,Beauty,3,30,6154.72,UPI,2025-02-23,7.0,8,4.0,No
+C0273,35,Female,Mumbai,802000.0,Silver,Grocery,1,0,1666.38,Cash on Delivery,2025-07-26,2.0,8,2.0,No
+C0274,57,Male,Nashik,1258000.0,Gold,Electronics,3,10,61372.69,UPI,2025-07-06,4.0,18,4.0,No
+C0275,52,Female,Delhi,1133000.0,Silver,Electronics,1,0,23368.49,Credit Card,2025-08-27,9.0,3,3.0,No
+C0276,40,Male,Delhi,1067000.0,Basic,Beauty,2,15,5182.88,UPI,2025-02-11,6.0,34,,No
+C0277,28,Female,Pune,793000.0,Basic,Beauty,1,5,1849.75,Credit Card,2025-11-08,4.0,25,4.0,No
+C0278,25,Female,Mumbai,840000.0,Silver,Sports,4,30,18691.48,Cash on Delivery,2025-06-27,1.0,22,3.0,No
+C0279,48,Male,Pune,1165000.0,Gold,Grocery,2,0,7391.36,UPI,2025-02-26,7.0,1,,No
+C0280,39,Male,Mumbai,931000.0,Silver,Home & Kitchen,4,20,22024.84,UPI,2025-04-24,4.0,20,3.0,No
+C0281,41,Female,Mumbai,896000.0,Silver,Beauty,3,15,4925.87,UPI,2025-03-25,4.0,30,4.0,No
+C0282,19,Female,Pune,723000.0,Basic,Clothing,1,0,3845.06,UPI,2025-06-15,3.0,29,4.0,No
+C0283,45,Male,Bengaluru,1185000.0,Gold,Electronics,4,0,92337.51,Credit Card,2025-06-21,5.0,7,2.0,No
+C0284,41,Female,Nagpur,1050000.0,Silver,Sports,3,5,9819.0,Net Banking,2025-06-08,2.0,11,4.0,No
+C0285,25,Female,Delhi,729000.0,Basic,Electronics,4,20,33003.24,UPI,2025-06-18,10.0,11,3.0,No
+C0286,31,Female,Pune,597000.0,Basic,Grocery,3,25,9377.04,Credit Card,2025-11-28,2.0,13,5.0,No
+C0287,39,Male,Pune,1097000.0,Basic,Grocery,1,0,2596.4,Credit Card,2025-12-17,4.0,26,4.0,No
+C0288,37,Male,Mumbai,960000.0,Basic,Home & Kitchen,2,5,8766.67,UPI,2025-06-28,5.0,41,4.0,No
+C0289,33,Female,Pune,895000.0,Gold,Clothing,3,0,16904.99,UPI,2025-12-18,7.0,16,3.0,No
+C0290,35,Male,Mumbai,877000.0,Basic,Home & Kitchen,3,5,35346.24,Debit Card,2025-10-26,7.0,7,3.0,Yes
+C0291,33,Female,Delhi,1138000.0,Gold,Clothing,5,20,40425.35,Debit Card,2025-10-27,4.0,4,4.0,No
+C0292,38,Male,Pune,803000.0,Gold,Beauty,1,5,4158.92,Cash on Delivery,2025-03-24,6.0,4,3.0,No
+C0293,51,Female,Pune,1117000.0,Silver,Clothing,2,0,9193.48,Credit Card,2025-06-10,1.0,19,4.0,No
+C0294,18,Male,Nashik,532000.0,Basic,Home & Kitchen,2,20,9051.77,Debit Card,2025-05-09,1.0,103,4.0,No
+C0295,34,Male,Nagpur,606000.0,Silver,Home & Kitchen,5,15,19831.83,Cash on Delivery,2025-02-05,9.0,2,2.0,No
+C0296,38,Female,Nashik,860000.0,Basic,Electronics,1,15,11676.67,Cash on Delivery,2025-01-28,4.0,13,3.0,Yes
+C0297,39,Female,Mumbai,1299000.0,Gold,Clothing,4,0,27808.37,Cash on Delivery,2025-08-16,4.0,6,4.0,No
+C0298,32,Female,Delhi,799000.0,Basic,Home & Kitchen,2,20,11454.99,UPI,2025-06-03,3.0,29,4.0,No
+C0299,18,Female,Pune,633000.0,Basic,Electronics,2,15,166492.55,Net Banking,2025-10-29,0.0,48,3.0,No
+C0300,39,Female,Mumbai,645000.0,Basic,Electronics,6,10,52754.25,Cash on Delivery,2025-09-02,1.0,1,4.0,No
+C0301,53,Female,Bengaluru,1313000.0,Gold,Grocery,4,0,12525.14,Cash on Delivery,2025-02-01,5.0,47,3.0,No
+C0302,21,Male,Delhi,611000.0,Silver,Sports,3,25,8398.2,Debit Card,2025-11-02,5.0,14,2.0,No
+C0303,45,Female,Mumbai,1059000.0,Silver,Grocery,2,10,2230.74,Net Banking,2025-07-01,6.0,33,3.0,No
+C0304,33,Female,Nagpur,917000.0,Basic,Clothing,3,20,10922.23,Credit Card,2025-07-26,5.0,3,4.0,Yes
+C0305,35,Male,Pune,831000.0,Basic,Sports,3,15,13063.8,Debit Card,2025-12-19,1.0,76,3.0,No
+C0306,25,Male,Pune,673000.0,Silver,Grocery,3,15,4215.88,Debit Card,2025-08-22,2.0,21,3.0,No
+C0307,33,Female,Pune,787000.0,Gold,Grocery,2,15,4992.16,Debit Card,2025-01-09,5.0,3,,No
+C0308,49,Female,Bengaluru,950000.0,Silver,Clothing,6,30,26364.78,Debit Card,2025-03-06,9.0,9,4.0,No
+C0309,42,Female,Mumbai,950000.0,Silver,Clothing,3,0,13661.28,UPI,2025-06-05,6.0,65,4.0,No
+C0310,53,Female,Bengaluru,1463000.0,Gold,Clothing,2,0,22239.99,UPI,2025-01-14,9.0,7,4.0,No
+C0311,48,Female,Pune,798000.0,Basic,Home & Kitchen,4,15,21693.06,Credit Card,2025-03-03,1.0,3,3.0,No
+C0312,40,Male,Delhi,913000.0,Basic,Electronics,4,15,67275.73,Debit Card,2025-10-16,7.0,67,4.0,No
+C0313,53,Male,Delhi,1220000.0,Silver,Home & Kitchen,2,10,15645.7,Debit Card,2025-02-22,4.0,63,4.0,No
+C0314,40,Male,Pune,1232000.0,Gold,Clothing,3,15,11652.5,Cash on Delivery,2025-03-02,7.0,14,4.0,No
+C0315,44,Male,Pune,1157000.0,Basic,Clothing,6,10,28478.04,Cash on Delivery,2025-07-04,4.0,15,4.0,No
+C0316,33,Female,Pune,760000.0,Silver,Electronics,4,15,26912.35,Credit Card,2025-02-03,5.0,19,4.0,No
+C0317,37,Female,Delhi,1165000.0,Silver,Grocery,6,5,11431.67,UPI,2025-04-04,4.0,12,2.0,No
+C0318,29,Male,Mumbai,739000.0,Basic,Home & Kitchen,1,20,5881.62,Debit Card,2025-12-09,6.0,15,4.0,No
+C0319,46,Male,Nagpur,1105000.0,Gold,Clothing,1,0,4898.67,Cash on Delivery,2025-08-19,10.0,37,3.0,No
+C0320,24,Female,Mumbai,543000.0,Basic,Electronics,3,15,32227.23,Debit Card,2025-12-18,3.0,23,5.0,No
+C0321,44,Male,Bengaluru,1298000.0,Silver,Clothing,2,20,11801.63,Cash on Delivery,2025-05-10,4.0,6,4.0,No
+C0322,34,Female,Nagpur,709000.0,Basic,Beauty,4,5,9853.09,Net Banking,2025-08-13,1.0,1,3.0,No
+C0323,48,Male,Nagpur,830000.0,Silver,Clothing,1,5,3311.57,UPI,2025-03-29,6.0,14,3.0,No
+C0324,44,Female,Delhi,1073000.0,Silver,Home & Kitchen,1,5,5836.15,Debit Card,2025-05-19,4.0,25,4.0,No
+C0325,54,Male,Pune,1264000.0,Basic,Clothing,2,10,5677.41,Credit Card,2025-03-05,2.0,66,4.0,No
+C0326,43,Female,Delhi,1012000.0,Basic,Electronics,4,15,78332.97,Credit Card,2025-11-01,4.0,10,2.0,No
+C0327,20,Male,Pune,693000.0,Gold,Home & Kitchen,1,0,7244.42,UPI,2025-03-09,1.0,31,2.0,Yes
+C0328,35,Female,Nagpur,698000.0,Basic,Grocery,3,20,2242.72,UPI,2025-03-16,3.0,9,4.0,No
+C0329,24,Male,Delhi,810000.0,Silver,Electronics,4,0,55598.93,UPI,2025-06-19,2.0,21,2.0,No
+C0330,31,Male,Bengaluru,941000.0,Silver,Sports,2,10,9432.67,Debit Card,2025-06-06,4.0,33,4.0,No
+C0331,51,Female,Bengaluru,1269000.0,Silver,Electronics,1,10,21583.61,UPI,2025-04-25,2.0,33,4.0,No
+C0332,42,Male,Mumbai,1053000.0,Gold,Clothing,1,0,5147.98,Credit Card,2025-05-11,6.0,11,5.0,No
+C0333,29,Male,Mumbai,873000.0,Silver,Clothing,4,0,15464.63,Credit Card,2025-04-18,12.0,12,3.0,No
+C0334,26,Male,Mumbai,871000.0,Basic,Grocery,4,35,9842.71,Credit Card,2025-11-30,2.0,26,4.0,No
+C0335,36,Male,Nagpur,1110000.0,Gold,Home & Kitchen,5,15,41544.94,Cash on Delivery,2025-07-31,5.0,6,4.0,No
+C0336,24,Male,Mumbai,888000.0,Basic,Electronics,2,0,43320.52,Credit Card,2025-12-02,2.0,8,3.0,No
+C0337,29,Female,Mumbai,997000.0,Basic,Sports,2,15,9154.46,UPI,2025-12-27,5.0,27,4.0,No
+C0338,39,Male,Mumbai,1521000.0,Gold,Grocery,6,10,21281.29,Net Banking,2025-08-26,3.0,46,4.0,No
+C0339,48,Female,Mumbai,1321000.0,Gold,Sports,2,5,13774.29,Cash on Delivery,2025-10-29,9.0,18,3.0,No
+C0340,42,Female,Mumbai,,Gold,Beauty,3,15,8523.12,Debit Card,2025-02-10,2.0,114,4.0,No
+C0341,18,Male,Pune,680000.0,Gold,Sports,1,10,4979.86,Debit Card,2025-12-13,7.0,24,4.0,No
+C0342,39,Female,Delhi,857000.0,Silver,Grocery,2,0,3081.78,UPI,2025-06-26,6.0,5,4.0,No
+C0343,37,Female,Nashik,730000.0,Basic,Clothing,3,20,10821.67,Debit Card,2025-09-18,2.0,77,3.0,No
+C0344,40,Female,Pune,894000.0,Silver,Grocery,3,5,4974.56,UPI,2025-03-31,2.0,36,4.0,No
+C0345,52,Male,Bengaluru,1395000.0,Gold,Grocery,4,5,14444.01,Credit Card,2025-02-04,1.0,9,3.0,No
+C0346,18,Male,Delhi,574000.0,Basic,Grocery,6,10,14759.13,UPI,2025-11-19,2.0,15,3.0,No
+C0347,30,Male,Mumbai,892000.0,Silver,Home & Kitchen,6,15,31903.89,Debit Card,2025-06-14,4.0,8,4.0,Yes
+C0348,42,Female,Pune,1169000.0,Gold,Electronics,5,15,123220.26,UPI,2025-02-20,3.0,2,3.0,No
+C0349,20,Female,Pune,739000.0,Basic,Beauty,5,20,9175.76,UPI,2025-08-29,3.0,76,4.0,No
+C0350,51,Female,Pune,1144000.0,Gold,Clothing,4,0,25006.88,UPI,2025-01-20,5.0,5,4.0,No
+C0351,40,Male,Bengaluru,956000.0,Basic,Sports,4,15,16500.51,Debit Card,2025-06-14,3.0,16,3.0,No
+C0352,44,Female,Delhi,1276000.0,Silver,Electronics,2,10,53894.64,UPI,2025-09-15,4.0,2,4.0,No
+C0353,30,Male,Pune,906000.0,Gold,Electronics,2,5,32256.42,Credit Card,2025-09-20,8.0,9,3.0,No
+C0354,44,Female,Bengaluru,896000.0,Basic,Beauty,1,0,1566.21,UPI,2025-06-15,4.0,18,2.0,No
+C0355,47,Male,Pune,1049000.0,Silver,Beauty,3,20,4715.22,Debit Card,2025-05-16,3.0,26,3.0,No
+C0356,38,Female,Nashik,836000.0,Basic,Home & Kitchen,6,5,56825.33,UPI,2025-11-03,0.0,63,3.0,No
+C0357,38,Female,Bengaluru,1133000.0,Gold,Sports,1,15,8067.28,Net Banking,2025-03-09,4.0,2,4.0,No
+C0358,39,Male,Mumbai,1194000.0,Silver,Clothing,4,10,15621.8,UPI,2025-01-28,6.0,1,,No
+C0359,27,Male,Pune,779000.0,Basic,Beauty,1,0,1209.07,UPI,2025-02-27,1.0,23,4.0,No
+C0360,35,Female,Nashik,854000.0,Gold,Clothing,5,35,19445.98,UPI,2025-10-20,7.0,8,4.0,No
+C0361,34,Male,Delhi,921000.0,Silver,Grocery,1,20,1704.78,UPI,2025-06-21,4.0,63,3.0,No
+C0362,40,Female,Mumbai,977000.0,Gold,Grocery,2,10,4705.53,Credit Card,2025-01-14,2.0,30,5.0,No
+C0363,46,Female,Pune,1039000.0,Basic,Electronics,3,15,38674.7,UPI,2025-03-03,4.0,5,2.0,No
+C0364,25,Female,Pune,703000.0,Gold,Grocery,2,10,3560.92,Cash on Delivery,2025-01-11,6.0,4,3.0,No
+C0365,35,Male,Nagpur,780000.0,Basic,Home & Kitchen,3,20,23225.08,Credit Card,2025-10-25,1.0,64,3.0,No
+C0366,51,Male,Nashik,720000.0,Gold,Electronics,2,0,34808.82,UPI,2025-06-18,5.0,1,4.0,No
+C0367,29,Male,Bengaluru,775000.0,Gold,Sports,6,10,37007.74,Credit Card,2025-01-25,5.0,27,4.0,No
+C0368,28,Female,Bengaluru,823000.0,Silver,Grocery,3,5,5788.13,UPI,2025-03-22,2.0,76,,No
+C0369,38,Male,Delhi,947000.0,Basic,Electronics,4,10,56807.8,UPI,2025-08-14,5.0,8,4.0,No
+C0370,44,Male,Bengaluru,1100000.0,Gold,Grocery,4,10,11387.31,UPI,2025-08-05,5.0,30,3.0,No
+C0371,36,Male,Mumbai,1068000.0,Silver,Electronics,7,5,123099.31,UPI,2025-10-27,3.0,57,3.0,No
+C0372,49,Female,Nagpur,838000.0,Silver,Electronics,2,30,23541.49,UPI,2025-01-10,6.0,28,4.0,No
+C0373,45,Male,Mumbai,937000.0,Silver,Home & Kitchen,4,0,34971.11,Net Banking,2025-01-26,4.0,16,4.0,No
+C0374,44,Female,Mumbai,1109000.0,Basic,Electronics,2,0,39986.34,Debit Card,2025-01-13,1.0,28,5.0,No
+C0375,42,Female,Delhi,1181000.0,Gold,Electronics,3,5,64696.32,Cash on Delivery,2025-05-24,4.0,36,4.0,No
+C0376,59,Female,Bengaluru,1693000.0,Gold,Home & Kitchen,3,15,24144.63,UPI,2025-09-23,7.0,30,3.0,No
+C0377,34,Female,Delhi,1028000.0,Silver,Electronics,2,0,27702.43,Cash on Delivery,2025-08-30,3.0,20,3.0,No
+C0378,18,Female,Mumbai,402000.0,Basic,Beauty,2,10,2391.87,UPI,2025-03-18,6.0,3,4.0,No
+C0379,52,Female,Nagpur,1011000.0,Silver,Home & Kitchen,4,15,26562.44,UPI,2025-08-28,5.0,81,3.0,No
+C0380,31,Male,Nagpur,763000.0,Basic,Electronics,2,0,24100.09,Cash on Delivery,2025-08-28,3.0,6,3.0,No
+C0381,37,Female,Pune,943000.0,Basic,Grocery,3,30,2815.85,UPI,2025-03-11,8.0,3,2.0,No
+C0382,49,Female,Mumbai,1345000.0,Gold,Electronics,4,10,88885.03,Credit Card,2025-10-01,1.0,26,4.0,No
+C0383,20,Female,Nagpur,418000.0,Basic,Grocery,2,15,1070.48,Cash on Delivery,2025-06-04,3.0,1,3.0,No
+C0384,23,Female,Pune,674000.0,Basic,Electronics,5,0,26767.34,Debit Card,2025-01-22,6.0,12,3.0,No
+C0385,20,Female,Delhi,702000.0,Basic,Sports,2,15,5670.67,Credit Card,2025-05-23,1.0,41,5.0,No
+C0386,28,Female,Pune,878000.0,Silver,Clothing,3,25,23089.47,UPI,2025-10-08,10.0,13,3.0,No
+C0387,40,Female,Pune,849000.0,Basic,Home & Kitchen,1,0,9094.91,UPI,2025-09-12,2.0,90,4.0,No
+C0388,41,Male,Bengaluru,1025000.0,Basic,Electronics,3,0,33827.59,Net Banking,2025-04-08,1.0,66,4.0,No
+C0389,39,Male,Pune,546000.0,Basic,Clothing,3,10,10795.01,UPI,2025-10-04,1.0,55,4.0,Yes
+C0390,22,Male,Delhi,584000.0,Silver,Grocery,3,0,3078.07,UPI,2025-05-23,1.0,53,2.0,No
+C0391,18,Male,Bengaluru,534000.0,Basic,Grocery,3,30,1819.34,UPI,2025-06-17,4.0,23,5.0,No
+C0392,37,Male,Pune,763000.0,Basic,Sports,3,10,7992.72,Cash on Delivery,2025-02-01,2.0,8,3.0,No
+C0393,31,Male,Bengaluru,900000.0,Gold,Electronics,6,10,136727.1,Debit Card,2025-12-30,8.0,1,4.0,No
+C0394,41,Female,Nashik,847000.0,Silver,Electronics,4,35,51643.72,Credit Card,2025-11-03,4.0,96,4.0,No
+C0395,43,Male,Bengaluru,778000.0,Silver,Clothing,5,20,17069.51,Net Banking,2025-03-13,3.0,22,3.0,No
+C0396,37,Female,Delhi,1002000.0,Silver,Clothing,1,20,4293.05,UPI,2025-07-24,3.0,30,3.0,No
+C0397,44,Female,Bengaluru,998000.0,Basic,Beauty,3,10,7821.39,Cash on Delivery,2025-10-12,5.0,43,3.0,No
+C0398,38,Male,Nashik,884000.0,Basic,Beauty,3,5,6318.29,UPI,2025-07-04,6.0,28,3.0,No
+C0399,41,Male,Mumbai,906000.0,Gold,Beauty,2,5,4727.67,Credit Card,2025-03-18,7.0,21,4.0,No
+C0400,29,Male,Bengaluru,839000.0,Silver,Electronics,5,5,70228.03,UPI,2025-12-20,7.0,1,4.0,No
+C0401,34,Female,Delhi,868000.0,Silver,Clothing,1,5,2763.56,Net Banking,2025-04-09,4.0,12,5.0,No
+C0402,38,Male,Nashik,856000.0,Silver,Home & Kitchen,1,0,7257.94,Cash on Delivery,2025-05-03,3.0,15,3.0,No
+C0403,44,Female,Bengaluru,1156000.0,Gold,Clothing,4,5,19185.0,Credit Card,2025-05-16,9.0,27,3.0,Yes
+C0404,32,Female,Mumbai,874000.0,Basic,Grocery,3,15,3686.53,UPI,2025-11-22,1.0,1,3.0,No
+C0405,41,Female,Bengaluru,846000.0,Basic,Clothing,3,5,9961.71,UPI,2025-07-02,5.0,8,5.0,No
+C0406,33,Male,Delhi,670000.0,Basic,Clothing,2,0,4625.21,Credit Card,2025-09-20,6.0,18,4.0,No
+C0407,35,Male,Pune,792000.0,Gold,Beauty,5,10,28136.56,UPI,2025-11-25,7.0,16,3.0,No
+C0408,44,Male,Pune,1041000.0,Gold,Clothing,3,10,18269.33,UPI,2025-12-05,2.0,4,5.0,No
+C0409,18,Male,Nagpur,434000.0,Basic,Sports,4,20,15427.82,Debit Card,2025-11-09,3.0,4,5.0,No
+C0410,23,Male,Nagpur,696000.0,Basic,Clothing,3,20,13700.48,Debit Card,2025-11-28,4.0,12,3.0,Yes
+C0411,21,Female,Nashik,518000.0,Basic,Electronics,3,0,32654.11,Cash on Delivery,2025-12-13,1.0,36,3.0,No
+C0412,18,Female,Pune,429000.0,Basic,Clothing,2,0,6958.29,Credit Card,2025-12-28,2.0,56,3.0,No
+C0413,29,Female,Mumbai,809000.0,Basic,Electronics,5,5,69784.32,UPI,2025-08-23,2.0,4,3.0,No
+C0414,43,Female,Nashik,919000.0,Gold,Grocery,1,0,2653.61,Credit Card,2025-02-18,5.0,1,4.0,No
+C0415,33,Male,Nashik,786000.0,Silver,Electronics,3,5,46274.44,UPI,2025-02-11,8.0,33,4.0,No
+C0416,38,Female,Bengaluru,1298000.0,Gold,Grocery,3,35,5784.64,Debit Card,2025-10-18,6.0,9,3.0,No
+C0417,47,Female,Bengaluru,1097000.0,Silver,Beauty,5,0,16535.06,Debit Card,2025-04-26,6.0,90,4.0,No
+C0418,49,Female,Nashik,962000.0,Gold,Clothing,2,10,11982.68,UPI,2025-10-21,2.0,40,5.0,No
+C0419,35,Female,Bengaluru,1020000.0,Silver,Electronics,4,15,84651.17,UPI,2025-12-08,1.0,57,4.0,No
+C0420,50,Male,Nashik,984000.0,Silver,Clothing,4,10,20413.67,Cash on Delivery,2025-08-24,4.0,16,3.0,No
+C0421,37,Male,Nagpur,741000.0,Silver,Home & Kitchen,1,5,9669.95,Credit Card,2025-10-06,3.0,1,3.0,No
+C0422,28,Male,Nashik,431000.0,Basic,Grocery,4,0,5239.66,Credit Card,2025-04-12,2.0,3,4.0,No
+C0423,30,Male,Pune,713000.0,Gold,Electronics,5,30,65322.46,Debit Card,2025-06-08,5.0,19,3.0,No
+C0424,21,Female,Mumbai,524000.0,Basic,Grocery,1,0,2122.68,Credit Card,2025-12-19,2.0,29,4.0,No
+C0425,27,Male,Nagpur,404000.0,Silver,Grocery,2,20,4292.79,UPI,2025-10-26,4.0,4,4.0,No
+C0426,32,Female,Delhi,753000.0,Basic,Clothing,3,15,8470.21,Cash on Delivery,2025-03-16,5.0,2,4.0,No
+C0427,44,Female,Bengaluru,980000.0,Basic,Electronics,3,5,56440.52,Cash on Delivery,2025-12-08,7.0,3,3.0,No
+C0428,53,Male,Pune,1292000.0,Silver,Sports,4,15,26240.47,UPI,2025-07-02,5.0,5,3.0,No
+C0429,22,Male,Nashik,665000.0,Basic,Electronics,3,5,39477.01,UPI,2025-11-05,5.0,104,3.0,No
+C0430,40,Female,Mumbai,942000.0,Silver,Electronics,4,5,44199.08,Debit Card,2025-07-10,4.0,22,4.0,No
+C0431,26,Female,Bengaluru,735000.0,Basic,Electronics,1,5,13104.4,Debit Card,2025-08-09,2.0,40,3.0,No
+C0432,41,Male,Delhi,768000.0,Basic,Grocery,4,30,4261.99,Credit Card,2025-03-01,2.0,42,3.0,No
+C0433,35,Male,Nashik,692000.0,Basic,Grocery,2,0,2024.71,Credit Card,2025-05-04,3.0,51,3.0,No
+C0434,18,Female,Nashik,576000.0,Basic,Clothing,2,0,6641.11,Debit Card,2025-09-21,3.0,17,4.0,No
+C0435,45,Male,Mumbai,1305000.0,Silver,Grocery,1,35,3084.32,Credit Card,2025-11-04,1.0,12,3.0,Yes
+C0436,30,Female,Mumbai,764000.0,Basic,Home & Kitchen,2,0,7326.41,UPI,2025-02-02,4.0,32,3.0,No
+C0437,31,Male,Delhi,1010000.0,Gold,Clothing,2,20,11787.53,UPI,2025-01-29,11.0,39,5.0,No
+C0438,25,Male,Bengaluru,527000.0,Basic,Beauty,5,15,3823.26,Credit Card,2025-09-10,3.0,38,4.0,No
+C0439,29,Female,Nagpur,507000.0,Silver,Clothing,1,10,2370.08,Cash on Delivery,2025-06-13,2.0,7,4.0,No
+C0440,40,Female,Mumbai,1184000.0,Silver,Electronics,3,20,93461.2,Credit Card,2025-11-06,3.0,8,3.0,No
+C0441,34,Female,Pune,1113000.0,Gold,Sports,2,15,11107.66,UPI,2025-01-25,1.0,10,4.0,No
+C0442,39,Male,Pune,1026000.0,Silver,Beauty,3,0,7689.2,Cash on Delivery,2025-05-08,3.0,31,3.0,Yes
+C0443,40,Female,Pune,964000.0,Basic,Clothing,3,30,9632.49,Credit Card,2025-01-13,1.0,24,5.0,Yes
+C0444,49,Female,Mumbai,935000.0,Gold,Beauty,2,30,3028.72,Credit Card,2025-09-16,4.0,64,5.0,No
+C0445,33,Male,Delhi,,Basic,Grocery,3,25,4336.86,UPI,2025-11-10,6.0,5,5.0,No
+C0446,21,Male,Nagpur,591000.0,Silver,Clothing,3,15,9047.74,Debit Card,2025-02-27,6.0,64,3.0,No
+C0447,47,Male,Mumbai,1169000.0,Silver,Beauty,5,10,21305.78,Debit Card,2025-04-29,4.0,4,3.0,No
+C0448,33,Female,Pune,678000.0,Basic,Home & Kitchen,4,15,17479.15,Cash on Delivery,2025-11-05,1.0,1,4.0,No
+C0449,47,Male,Mumbai,1233000.0,Silver,Clothing,3,0,13753.47,UPI,2025-01-16,2.0,44,4.0,Yes
+C0450,40,Female,Bengaluru,1074000.0,Gold,Grocery,5,10,13424.16,Credit Card,2025-12-14,3.0,47,5.0,No
+C0451,35,Male,Mumbai,1116000.0,Gold,Clothing,4,20,20005.55,UPI,2025-11-20,6.0,14,4.0,No
+C0452,39,Female,Bengaluru,1057000.0,Gold,Electronics,4,15,96919.6,Net Banking,2025-02-25,4.0,7,4.0,No
+C0453,56,Male,Bengaluru,1563000.0,Gold,Sports,2,5,16076.82,UPI,2025-02-20,3.0,1,4.0,No
+C0454,57,Female,Pune,1277000.0,Gold,Grocery,1,10,2380.41,Debit Card,2025-09-10,2.0,38,4.0,No
+C0455,37,Male,Nashik,779000.0,Silver,Grocery,3,15,4254.1,Debit Card,2025-01-04,6.0,5,4.0,No
+C0456,38,Male,Delhi,1148000.0,Basic,Grocery,1,10,1531.81,UPI,2025-07-04,3.0,12,4.0,No
+C0457,47,Female,Mumbai,1076000.0,Silver,Grocery,2,30,2775.33,UPI,2025-01-25,1.0,37,3.0,No
+C0458,28,Female,Pune,1176000.0,Silver,Clothing,2,15,6103.82,UPI,2025-07-13,2.0,6,3.0,Yes
+C0459,39,Female,Delhi,1064000.0,Gold,Sports,2,0,11701.07,Credit Card,2025-05-08,8.0,1,3.0,No
+C0460,36,Male,Delhi,1007000.0,Silver,Grocery,2,0,3947.01,Net Banking,2025-09-15,4.0,4,2.0,No
+C0461,39,Female,Nagpur,925000.0,Basic,Home & Kitchen,3,20,16240.55,Credit Card,2025-11-18,0.0,55,4.0,No
+C0462,28,Female,Nagpur,960000.0,Silver,Grocery,4,10,7099.67,Net Banking,2025-06-28,3.0,12,4.0,No
+C0463,20,Female,Pune,729000.0,Basic,Clothing,4,20,11199.87,UPI,2025-08-23,4.0,41,4.0,No
+C0464,18,Male,Bengaluru,372000.0,Basic,Electronics,2,0,15096.01,Credit Card,2025-08-08,3.0,3,4.0,No
+C0465,25,Female,Nagpur,843000.0,Basic,Clothing,4,0,18463.41,Cash on Delivery,2025-12-26,2.0,22,4.0,No
+C0466,31,Female,Pune,757000.0,Silver,Electronics,1,5,23725.76,Cash on Delivery,2025-03-26,4.0,4,4.0,No
+C0467,33,Female,Bengaluru,931000.0,Silver,Grocery,2,15,5996.12,UPI,2025-03-29,4.0,7,3.0,No
+C0468,55,Male,Delhi,1127000.0,Gold,Beauty,3,30,5297.44,Debit Card,2025-05-19,6.0,4,3.0,No
+C0469,47,Male,Delhi,1243000.0,Gold,Clothing,2,20,8057.78,Cash on Delivery,2025-09-26,3.0,34,4.0,No
+C0470,26,Female,Mumbai,690000.0,Basic,Clothing,3,15,8470.88,Debit Card,2025-11-12,1.0,71,5.0,No
+C0471,39,Female,Pune,967000.0,Gold,Home & Kitchen,1,20,9491.26,Debit Card,2025-04-12,7.0,6,5.0,No
+C0472,32,Female,Delhi,829000.0,Basic,Electronics,2,0,23444.2,UPI,2025-02-10,0.0,121,4.0,No
+C0473,33,Male,Delhi,1180000.0,Silver,Sports,2,10,11166.04,UPI,2025-08-11,6.0,1,2.0,Yes
+C0474,38,Male,Nagpur,1129000.0,Gold,Clothing,7,30,48697.38,Debit Card,2025-08-07,5.0,76,4.0,No
+C0475,42,Female,Nashik,877000.0,Basic,Electronics,5,5,56793.37,Credit Card,2025-05-17,1.0,64,4.0,No
+C0476,33,Male,Mumbai,943000.0,Silver,Electronics,7,30,94997.23,UPI,2025-03-09,4.0,19,5.0,No
+C0477,47,Male,Mumbai,1167000.0,Basic,Sports,2,5,14428.1,UPI,2025-11-07,7.0,37,4.0,No
+C0478,25,Female,Pune,866000.0,Silver,Clothing,2,5,9358.71,Credit Card,2025-11-05,5.0,11,4.0,Yes
+C0479,36,Female,Pune,849000.0,Basic,Grocery,2,10,3952.44,Credit Card,2025-09-30,7.0,13,3.0,No
+C0480,62,Female,Mumbai,1470000.0,Gold,Electronics,4,20,65620.96,Credit Card,2025-07-31,5.0,48,3.0,No
+C0481,38,Male,Delhi,1136000.0,Silver,Electronics,1,5,23684.67,Credit Card,2025-04-06,3.0,3,4.0,No
+C0482,50,Male,Pune,1069000.0,Gold,Beauty,6,20,13251.95,UPI,2025-05-28,5.0,44,3.0,No
+C0483,37,Female,Mumbai,1010000.0,Silver,Electronics,5,0,74613.09,Cash on Delivery,2025-01-25,4.0,9,4.0,No
+C0484,42,Male,Nagpur,655000.0,Basic,Electronics,3,15,22360.3,Debit Card,2025-04-02,1.0,23,2.0,No
+C0485,35,Male,Pune,986000.0,Silver,Grocery,3,10,4120.2,UPI,2025-06-14,6.0,6,4.0,No
+C0486,34,Male,Pune,1153000.0,Basic,Beauty,3,0,6088.93,Credit Card,2025-06-09,7.0,32,4.0,No
+C0487,28,Female,Nagpur,787000.0,Silver,Clothing,2,15,3729.84,Credit Card,2025-01-30,5.0,23,3.0,No
+C0488,40,Female,Mumbai,1297000.0,Gold,Electronics,5,15,128928.22,Debit Card,2025-12-16,2.0,17,,No
+C0489,27,Female,Nashik,522000.0,Gold,Sports,3,10,11551.01,Debit Card,2025-04-08,4.0,59,2.0,Yes
+C0490,43,Female,Delhi,1121000.0,Silver,Home & Kitchen,1,0,9559.16,Debit Card,2025-07-05,5.0,20,3.0,No
+C0491,47,Male,Pune,955000.0,Silver,Beauty,4,0,10749.98,Debit Card,2025-06-19,12.0,16,3.0,No
+C0492,40,Male,Delhi,993000.0,Basic,Home & Kitchen,3,30,9939.56,UPI,2025-06-21,3.0,65,5.0,No
+C0493,33,Male,Delhi,1007000.0,Silver,Home & Kitchen,4,20,28645.38,UPI,2025-11-05,4.0,34,3.0,No
+C0494,41,Male,Delhi,1062000.0,Gold,Clothing,5,20,22069.55,UPI,2025-09-30,3.0,64,4.0,No
+C0495,33,Male,Nashik,525000.0,Basic,Clothing,7,20,30661.3,Credit Card,2025-11-13,6.0,2,3.0,No
+C0496,45,Male,Nashik,717000.0,Silver,Home & Kitchen,4,20,14713.44,Credit Card,2025-05-19,4.0,15,4.0,No
+C0497,18,Male,Nashik,309000.0,Basic,Home & Kitchen,4,0,11699.14,Debit Card,2025-04-07,3.0,27,2.0,Yes
+C0498,33,Female,Bengaluru,989000.0,Gold,Sports,1,10,4084.34,UPI,2025-06-06,8.0,19,5.0,No
+C0499,18,Female,Pune,884000.0,Silver,Grocery,2,15,2374.04,Debit Card,2025-07-24,5.0,11,4.0,No
+C0500,21,Male,Delhi,863000.0,Silver,Clothing,4,0,16401.18,UPI,2025-05-03,4.0,53,1.0,No
+C0501,50,Female,Nashik,704000.0,Basic,Grocery,4,0,5811.14,Credit Card,2025-06-17,5.0,18,3.0,No
+C0502,45,Female,Bengaluru,1370000.0,Gold,Grocery,4,15,14748.46,Debit Card,2025-02-25,4.0,17,3.0,No
+C0503,29,Female,Mumbai,991000.0,Basic,Grocery,2,20,3778.93,UPI,2025-08-02,2.0,44,3.0,No
+C0504,21,Female,Pune,396000.0,Basic,Home & Kitchen,2,15,12269.36,UPI,2025-09-18,4.0,4,3.0,No
+C0505,18,Male,Nagpur,480000.0,Basic,Grocery,3,0,3731.33,Credit Card,2025-07-12,,6,3.0,No
+C0506,31,Female,Nagpur,889000.0,Gold,Electronics,2,35,32428.76,Debit Card,2025-11-15,5.0,11,4.0,No
+C0507,60,Male,Mumbai,1575000.0,Gold,Grocery,2,0,6583.66,UPI,2025-12-30,5.0,15,3.0,No
+C0508,40,Male,Mumbai,882000.0,Basic,Grocery,3,5,7864.76,Net Banking,2025-11-27,1.0,37,,No
+C0509,30,Male,Mumbai,963000.0,Gold,Beauty,2,30,4862.95,Net Banking,2025-02-03,7.0,19,5.0,No
+C0510,41,Male,Nagpur,557000.0,Basic,Clothing,4,20,14647.89,Cash on Delivery,2025-11-18,4.0,15,,No
+C0511,20,Male,Mumbai,631000.0,Basic,Grocery,2,30,1376.73,UPI,2025-05-02,1.0,17,4.0,No
+C0512,33,Male,Delhi,1062000.0,Gold,Grocery,3,20,6536.19,Debit Card,2025-06-14,4.0,5,3.0,No
+C0513,37,Female,Pune,919000.0,Silver,Grocery,3,15,4982.45,UPI,2025-05-31,2.0,19,4.0,No
+C0514,35,Male,Mumbai,900000.0,Silver,Electronics,3,5,46842.56,Cash on Delivery,2025-04-14,5.0,8,3.0,No
+C0515,44,Male,Mumbai,1294000.0,Gold,Beauty,3,10,12010.71,Credit Card,2025-11-17,3.0,5,4.0,No
+C0516,39,Male,Nagpur,993000.0,Gold,Beauty,4,30,12907.76,UPI,2025-08-21,7.0,1,4.0,Yes
+C0517,43,Male,Nagpur,1104000.0,Gold,Grocery,4,20,20380.32,UPI,2025-12-19,3.0,21,4.0,No
+C0518,29,Male,Nashik,809000.0,Silver,Grocery,3,5,5640.56,Cash on Delivery,2025-12-15,4.0,42,2.0,No
+C0519,45,Male,Delhi,1287000.0,Silver,Electronics,4,5,77734.82,Cash on Delivery,2025-06-03,2.0,45,4.0,No
+C0520,52,Male,Mumbai,1436000.0,Gold,Grocery,5,5,7454.97,Credit Card,2025-09-23,5.0,29,4.0,No
+C0521,26,Female,Bengaluru,814000.0,Basic,Grocery,3,5,5557.67,Credit Card,2025-07-03,6.0,15,5.0,Yes
+C0522,27,Female,Pune,749000.0,Silver,Home & Kitchen,3,20,8679.36,Debit Card,2025-06-30,5.0,41,,No
+C0523,49,Female,Mumbai,1229000.0,Silver,Electronics,2,0,32537.74,Cash on Delivery,2025-09-27,0.0,5,,No
+C0524,34,Female,Mumbai,772000.0,Gold,Home & Kitchen,3,10,15825.78,Debit Card,2025-09-09,6.0,2,5.0,No
+C0525,50,Female,Pune,1007000.0,Basic,Clothing,2,35,6442.22,Credit Card,2025-11-29,2.0,2,4.0,No
+C0526,32,Female,Nashik,680000.0,Basic,Grocery,2,15,4268.26,Debit Card,2025-10-09,5.0,12,3.0,No
+C0527,51,Female,Bengaluru,1314000.0,Silver,Grocery,5,10,6975.55,Cash on Delivery,2025-08-16,7.0,2,3.0,No
+C0528,37,Female,Bengaluru,,Gold,Clothing,4,5,29307.8,UPI,2025-12-02,8.0,12,4.0,Yes
+C0529,39,Female,Nagpur,840000.0,Basic,Grocery,2,0,2948.31,Credit Card,2025-02-07,2.0,17,4.0,No
+C0530,52,Female,Nashik,,Silver,Beauty,2,5,11314.82,UPI,2025-10-06,2.0,27,3.0,No
+C0531,32,Male,Mumbai,1074000.0,Basic,Grocery,2,0,3800.1,Credit Card,2025-05-24,1.0,26,4.0,No
+C0532,27,Male,Pune,701000.0,Basic,Electronics,4,0,31940.72,Debit Card,2025-06-08,,25,3.0,No
+C0533,32,Male,Pune,915000.0,Basic,Grocery,5,5,9970.35,UPI,2025-10-13,1.0,8,4.0,No
+C0534,41,Male,Bengaluru,1040000.0,Basic,Clothing,1,5,5518.81,Credit Card,2025-04-10,1.0,13,3.0,No
+C0535,20,Female,Delhi,837000.0,Gold,Grocery,5,5,18861.87,UPI,2025-11-19,1.0,45,5.0,No
+C0536,42,Male,Pune,1101000.0,Basic,Grocery,3,30,3203.02,Cash on Delivery,2025-07-02,2.0,24,4.0,No
+C0537,31,Female,Nagpur,546000.0,Silver,Electronics,1,0,10409.29,Cash on Delivery,2025-05-08,8.0,10,4.0,No
+C0538,47,Female,Bengaluru,1222000.0,Silver,Grocery,4,5,8521.5,Credit Card,2025-04-30,5.0,53,4.0,No
+C0539,18,Female,Delhi,847000.0,Gold,Home & Kitchen,5,20,26827.87,Debit Card,2025-06-03,7.0,3,4.0,No
+C0540,28,Male,Nagpur,651000.0,Silver,Home & Kitchen,5,0,26318.01,UPI,2025-12-11,2.0,72,3.0,No
+C0541,19,Male,Nashik,598000.0,Basic,Electronics,2,10,16712.8,Cash on Delivery,2025-02-07,2.0,1,4.0,No
+C0542,28,Female,Bengaluru,896000.0,Basic,Clothing,1,20,4137.4,Debit Card,2025-07-05,2.0,9,3.0,No
+C0543,38,Female,Delhi,833000.0,Silver,Grocery,4,15,8193.63,UPI,2025-11-01,7.0,1,4.0,No
+C0544,34,Female,Pune,939000.0,Silver,Electronics,3,0,42664.33,Net Banking,2025-06-22,4.0,41,3.0,No
+C0545,33,Female,Delhi,682000.0,Basic,Grocery,6,15,7977.41,UPI,2025-07-26,1.0,5,2.0,No
+C0546,34,Female,Pune,768000.0,Gold,Electronics,2,15,48830.67,Debit Card,2025-05-08,5.0,1,3.0,Yes
+C0547,38,Male,Delhi,1150000.0,Silver,Electronics,5,5,85425.02,UPI,2025-02-19,2.0,73,4.0,No
+C0548,26,Male,Pune,772000.0,Silver,Grocery,4,0,9939.53,Debit Card,2025-08-22,3.0,43,4.0,No
+C0549,43,Male,Pune,978000.0,Gold,Clothing,2,0,13053.63,UPI,2025-12-02,2.0,35,4.0,No
+C0550,43,Female,Pune,1091000.0,Gold,Home & Kitchen,3,20,21762.68,UPI,2025-07-09,7.0,16,5.0,No
+C0551,40,Female,Mumbai,1069000.0,Silver,Electronics,2,5,29677.47,Credit Card,2025-06-07,5.0,23,4.0,No
+C0552,42,Male,Mumbai,1121000.0,Silver,Grocery,4,0,7508.2,Net Banking,2025-02-17,4.0,28,3.0,No
+C0553,39,Female,Pune,1051000.0,Basic,Clothing,4,10,18279.86,UPI,2025-12-11,1.0,17,4.0,No
+C0554,56,Male,Mumbai,1300000.0,Silver,Home & Kitchen,1,35,9257.22,Debit Card,2025-11-14,5.0,69,4.0,No
+C0555,35,Male,Mumbai,981000.0,Silver,Home & Kitchen,5,5,38530.63,Credit Card,2025-11-26,8.0,19,3.0,No
+C0556,33,Male,Bengaluru,868000.0,Silver,Clothing,2,0,7616.87,Cash on Delivery,2025-05-12,5.0,9,3.0,No
+C0557,28,Male,Delhi,556000.0,Basic,Grocery,2,10,2930.23,UPI,2025-08-17,3.0,29,4.0,No
+C0558,26,Female,Bengaluru,636000.0,Silver,Clothing,2,15,4509.61,Credit Card,2025-06-07,4.0,74,3.0,No
+C0559,24,Male,Pune,917000.0,Basic,Grocery,4,10,8290.15,Net Banking,2025-03-27,2.0,7,3.0,No
+C0560,27,Female,Mumbai,867000.0,Basic,Electronics,4,20,43158.93,UPI,2025-03-17,4.0,1,5.0,No
+C0561,35,Female,Delhi,732000.0,Silver,Grocery,2,0,3179.24,Credit Card,2025-05-21,5.0,19,4.0,No
+C0562,39,Male,Pune,721000.0,Basic,Electronics,6,5,41668.57,Cash on Delivery,2025-07-21,2.0,7,3.0,No
+C0563,37,Male,Mumbai,999000.0,Gold,Beauty,3,5,8915.63,UPI,2025-02-14,5.0,30,4.0,No
+C0564,28,Female,Delhi,1028000.0,Gold,Grocery,3,5,8527.47,Credit Card,2025-09-14,6.0,29,3.0,No
+C0565,45,Male,Delhi,1097000.0,Gold,Grocery,2,10,7059.11,UPI,2025-06-17,2.0,39,5.0,No
+C0566,43,Female,Mumbai,1336000.0,Gold,Clothing,4,20,32673.03,Cash on Delivery,2025-11-18,3.0,7,4.0,Yes
+C0567,34,Male,Bengaluru,988000.0,Basic,Clothing,3,5,14492.86,Net Banking,2025-04-12,4.0,43,4.0,No
+C0568,29,Female,Mumbai,921000.0,Silver,Clothing,2,15,5476.92,Debit Card,2025-01-19,7.0,37,2.0,No
+C0569,41,Female,Bengaluru,876000.0,Silver,Beauty,2,0,4985.3,Debit Card,2025-04-24,6.0,51,3.0,No
+C0570,38,Male,Pune,1075000.0,Basic,Home & Kitchen,3,10,32300.13,Credit Card,2025-12-22,5.0,27,3.0,No
+C0571,22,Male,Pune,596000.0,Basic,Electronics,4,5,33421.06,UPI,2025-04-28,3.0,38,4.0,No
+C0572,35,Female,Nashik,896000.0,Basic,Home & Kitchen,4,10,27322.21,UPI,2025-09-14,4.0,1,3.0,No
+C0573,39,Male,Mumbai,935000.0,Gold,Clothing,1,5,8457.2,UPI,2025-11-04,5.0,66,4.0,No
+C0574,27,Male,Bengaluru,821000.0,Gold,Electronics,3,30,42629.25,UPI,2025-04-14,2.0,15,5.0,No
+C0575,38,Male,Mumbai,1089000.0,Gold,Grocery,2,20,4135.99,Debit Card,2025-08-23,2.0,33,4.0,No
+C0576,21,Male,Delhi,635000.0,Basic,Electronics,2,20,14171.61,UPI,2025-03-16,5.0,13,3.0,No
+C0577,49,Female,Bengaluru,1299000.0,Silver,Clothing,6,20,34856.38,UPI,2025-05-13,3.0,11,4.0,Yes
+C0578,48,Female,Nagpur,,Gold,Home & Kitchen,1,0,10540.04,Credit Card,2025-04-19,3.0,76,5.0,No
+C0579,33,Male,Bengaluru,818000.0,Silver,Clothing,2,10,8051.29,UPI,2025-09-03,5.0,10,4.0,No
+C0580,40,Female,Mumbai,1319000.0,Basic,Beauty,4,10,11763.37,UPI,2025-11-16,2.0,9,4.0,No
+C0581,18,Male,Nagpur,683000.0,Silver,Grocery,2,20,2871.88,UPI,2025-04-03,4.0,16,4.0,No
+C0582,24,Male,Pune,568000.0,Basic,Beauty,2,0,3670.17,UPI,2025-04-17,3.0,2,4.0,No
+C0583,33,Female,Delhi,977000.0,Basic,Grocery,4,5,10247.62,Credit Card,2025-10-27,5.0,2,2.0,No
+C0584,25,Female,Delhi,625000.0,Silver,Beauty,4,15,7990.43,Debit Card,2025-06-18,2.0,20,5.0,No
+C0585,43,Male,Delhi,908000.0,Basic,Clothing,2,0,6050.21,Cash on Delivery,2025-07-07,3.0,23,5.0,No
+C0586,56,Male,Delhi,1494000.0,Gold,Grocery,2,15,3872.79,Debit Card,2025-09-15,4.0,41,4.0,No
+C0587,24,Female,Delhi,461000.0,Basic,Grocery,3,5,3614.0,Debit Card,2025-02-20,2.0,17,4.0,No
+C0588,28,Female,Mumbai,969000.0,Gold,Beauty,3,20,7080.99,Cash on Delivery,2025-11-15,8.0,13,4.0,No
+C0589,38,Male,Delhi,951000.0,Gold,Electronics,3,20,40634.23,Credit Card,2025-05-14,4.0,48,4.0,No
+C0590,52,Male,Nashik,986000.0,Silver,Grocery,4,10,31466.04,Debit Card,2025-08-29,5.0,46,3.0,No
+C0591,24,Female,Mumbai,808000.0,Silver,Home & Kitchen,1,0,6779.25,Credit Card,2025-06-07,5.0,5,3.0,No
+C0592,38,Male,Nagpur,919000.0,Gold,Clothing,1,5,11458.23,UPI,2025-10-02,8.0,14,4.0,Yes
+C0593,54,Male,Mumbai,1244000.0,Basic,Beauty,4,0,6411.16,UPI,2025-08-12,3.0,17,4.0,No
+C0594,19,Male,Mumbai,751000.0,Silver,Clothing,4,0,27799.12,UPI,2025-03-05,6.0,12,5.0,No
+C0595,23,Male,Mumbai,743000.0,Basic,Electronics,3,10,31228.44,Cash on Delivery,2025-03-10,3.0,13,3.0,No
+C0596,32,Male,Pune,638000.0,Basic,Grocery,4,10,7743.76,UPI,2025-11-17,3.0,5,3.0,No
+C0597,31,Female,Nagpur,699000.0,Basic,Grocery,2,0,2146.83,Debit Card,2025-07-09,2.0,60,5.0,No
+C0598,44,Female,Delhi,1313000.0,Gold,Electronics,3,0,92252.17,Cash on Delivery,2025-04-11,5.0,4,3.0,No
+C0599,38,Female,Nashik,1062000.0,Silver,Electronics,3,30,36590.08,Credit Card,2025-02-22,,8,3.0,No
+C0600,18,Female,Nagpur,633000.0,Basic,Electronics,4,0,44574.46,UPI,2025-02-16,,2,4.0,No
+C0601,41,Male,Mumbai,,Silver,Home & Kitchen,4,5,22464.93,Credit Card,2025-12-02,3.0,15,4.0,No
+C0602,30,Male,Mumbai,945000.0,Gold,Beauty,2,10,8268.44,UPI,2025-12-23,3.0,40,3.0,No
+C0603,49,Female,Pune,,Gold,Grocery,2,0,6713.14,Net Banking,2025-05-24,3.0,1,3.0,No
+C0604,30,Male,Delhi,942000.0,Silver,Electronics,4,30,42865.6,Debit Card,2025-03-15,4.0,1,3.0,No
+C0605,30,Female,Pune,908000.0,Gold,Grocery,4,0,12372.74,Debit Card,2025-06-02,4.0,21,4.0,No
+C0606,41,Female,Bengaluru,1131000.0,Gold,Beauty,2,15,8246.54,Credit Card,2025-02-19,5.0,3,5.0,No
+C0607,44,Male,Bengaluru,1126000.0,Gold,Home & Kitchen,6,15,42705.72,Debit Card,2025-07-20,4.0,7,3.0,No
+C0608,40,Male,Nashik,749000.0,Silver,Clothing,2,20,9370.93,Debit Card,2025-08-17,6.0,10,,No
+C0609,19,Male,Delhi,335000.0,Basic,Electronics,4,15,38216.5,UPI,2025-12-26,5.0,8,4.0,No
+C0610,41,Male,Mumbai,1150000.0,Silver,Beauty,6,15,15222.95,UPI,2025-04-27,2.0,5,3.0,No
+C0611,26,Male,Delhi,783000.0,Basic,Beauty,2,10,3815.03,UPI,2025-03-14,2.0,1,2.0,No
+C0612,38,Male,Bengaluru,1100000.0,Silver,Electronics,5,10,80355.15,Credit Card,2025-02-18,5.0,29,3.0,No
+C0613,22,Female,Bengaluru,493000.0,Basic,Beauty,5,15,3251.54,Cash on Delivery,2025-05-18,4.0,27,3.0,No
+C0614,40,Female,Bengaluru,1153000.0,Silver,Electronics,3,10,46314.43,Debit Card,2025-08-08,9.0,16,5.0,No
+C0615,28,Female,Delhi,1103000.0,Gold,Electronics,3,10,42174.69,Credit Card,2025-01-25,6.0,2,4.0,No
+C0616,23,Male,Delhi,709000.0,Basic,Home & Kitchen,1,5,10214.55,Cash on Delivery,2025-10-05,3.0,2,2.0,No
+C0617,43,Male,Mumbai,1131000.0,Gold,Grocery,6,5,21811.67,UPI,2025-06-17,4.0,3,4.0,No
+C0618,38,Male,Bengaluru,1062000.0,Silver,Clothing,3,10,21110.2,UPI,2025-10-17,1.0,101,3.0,No
+C0619,30,Male,Bengaluru,1160000.0,Gold,Beauty,2,0,6276.23,Cash on Delivery,2025-06-19,5.0,2,4.0,No
+C0620,51,Female,Mumbai,1152000.0,Gold,Beauty,3,10,7739.89,Cash on Delivery,2025-02-26,3.0,30,3.0,No
+C0621,32,Male,Delhi,903000.0,Gold,Electronics,3,0,50589.25,Debit Card,2025-01-08,5.0,17,3.0,No
+C0622,36,Male,Mumbai,875000.0,Basic,Grocery,3,10,7506.37,UPI,2025-07-23,3.0,68,4.0,No
+C0623,39,Female,Nagpur,765000.0,Basic,Home & Kitchen,3,15,11816.21,Net Banking,2025-07-16,3.0,57,5.0,No
+C0624,30,Male,Pune,783000.0,Silver,Grocery,1,15,1212.28,Debit Card,2025-10-24,2.0,8,5.0,No
+C0625,41,Male,Mumbai,1301000.0,Gold,Sports,7,20,75003.71,Debit Card,2025-11-17,6.0,8,3.0,No
+C0626,31,Male,Delhi,1123000.0,Gold,Home & Kitchen,4,0,57137.02,UPI,2025-02-28,4.0,17,3.0,No
+C0627,32,Female,Mumbai,980000.0,Silver,Electronics,3,0,75242.01,Credit Card,2025-04-25,8.0,69,4.0,No
+C0628,50,Female,Mumbai,1229000.0,Gold,Electronics,4,15,102207.11,Cash on Delivery,2025-03-17,7.0,92,4.0,No
+C0629,26,Male,Mumbai,1162000.0,Gold,Beauty,2,20,8003.23,Cash on Delivery,2025-02-08,5.0,5,2.0,No
+C0630,18,Female,Nagpur,461000.0,Basic,Sports,3,15,8020.85,Credit Card,2025-01-01,3.0,7,,No
+C0631,52,Female,Bengaluru,1213000.0,Gold,Electronics,2,15,23304.37,Credit Card,2025-01-31,4.0,70,4.0,No
+C0632,61,Female,Delhi,1170000.0,Gold,Electronics,3,15,58096.41,Debit Card,2025-07-11,3.0,22,3.0,No
+C0633,32,Male,Pune,1035000.0,Gold,Home & Kitchen,4,15,37427.27,Credit Card,2025-02-25,6.0,2,3.0,No
+C0634,18,Male,Nashik,661000.0,Silver,Electronics,3,15,33537.69,Credit Card,2025-03-13,1.0,18,3.0,Yes
+C0635,33,Female,Mumbai,1296000.0,Gold,Electronics,5,15,96726.71,UPI,2025-02-13,4.0,1,4.0,No
+C0636,33,Male,Nashik,529000.0,Basic,Beauty,3,0,4006.54,UPI,2025-09-22,2.0,43,4.0,No
+C0637,34,Female,Mumbai,1173000.0,Gold,Beauty,1,0,2897.18,Debit Card,2025-08-21,5.0,3,,No
+C0638,25,Female,Mumbai,778000.0,Basic,Beauty,1,5,4185.23,UPI,2025-12-18,3.0,41,4.0,No
+C0639,42,Male,Nagpur,1014000.0,Silver,Grocery,2,10,6230.45,UPI,2025-02-10,0.0,85,4.0,No
+C0640,41,Female,Nashik,608000.0,Basic,Clothing,3,15,7671.11,Cash on Delivery,2025-03-18,7.0,25,3.0,No
+C0641,21,Female,Nagpur,792000.0,Gold,Beauty,3,5,8415.98,Debit Card,2025-06-16,4.0,28,4.0,No
+C0642,43,Female,Nagpur,1026000.0,Basic,Clothing,3,5,8721.21,UPI,2025-08-25,8.0,7,4.0,No
+C0643,57,Male,Bengaluru,1393000.0,Gold,Clothing,4,15,26752.58,UPI,2025-02-17,3.0,29,5.0,No
+C0644,38,Female,Bengaluru,1113000.0,Silver,Beauty,3,0,13508.25,Debit Card,2025-03-19,4.0,21,3.0,No
+C0645,33,Female,Mumbai,818000.0,Gold,Home & Kitchen,1,20,4115.55,Credit Card,2025-06-03,3.0,36,3.0,No
+C0646,35,Female,Bengaluru,869000.0,Basic,Beauty,4,0,9784.38,Credit Card,2025-01-07,3.0,1,4.0,No
+C0647,42,Female,Delhi,997000.0,Basic,Electronics,2,5,27788.51,Credit Card,2025-05-25,4.0,18,4.0,No
+C0648,19,Female,Pune,314000.0,Basic,Sports,4,15,13416.65,UPI,2025-10-04,4.0,2,4.0,No
+C0649,38,Male,Nashik,940000.0,Gold,Grocery,2,5,7469.95,Debit Card,2025-07-12,8.0,12,3.0,No
+C0650,32,Male,Mumbai,1091000.0,Basic,Grocery,4,0,11439.71,UPI,2025-06-08,3.0,10,3.0,No
+C0651,54,Male,Bengaluru,1233000.0,Silver,Beauty,1,0,2591.51,Credit Card,2025-06-28,9.0,6,4.0,No
+C0652,34,Female,Mumbai,1006000.0,Gold,Clothing,2,5,17283.03,UPI,2025-12-12,7.0,17,4.0,Yes
+C0653,53,Female,Bengaluru,1279000.0,Gold,Home & Kitchen,2,5,20327.65,UPI,2025-07-09,4.0,10,4.0,No
+C0654,25,Female,Mumbai,817000.0,Basic,Grocery,1,15,1199.61,UPI,2025-07-15,4.0,29,5.0,No
+C0655,42,Male,Nagpur,798000.0,Basic,Home & Kitchen,3,0,24384.92,Cash on Delivery,2025-12-06,4.0,22,2.0,No
+C0656,39,Female,Delhi,876000.0,Silver,Beauty,5,5,14455.45,UPI,2025-02-27,6.0,2,5.0,No
+C0657,27,Female,Mumbai,967000.0,Gold,Home & Kitchen,6,0,57699.21,UPI,2025-02-05,5.0,17,3.0,No
+C0658,38,Male,Delhi,979000.0,Gold,Electronics,4,30,41841.56,UPI,2025-06-14,4.0,2,5.0,No
+C0659,48,Female,Delhi,1486000.0,Gold,Electronics,2,15,38602.63,Debit Card,2025-04-27,6.0,15,4.0,No
+C0660,33,Female,Delhi,898000.0,Basic,Sports,3,30,8117.84,Credit Card,2025-03-16,2.0,26,4.0,No
+C0661,19,Female,Pune,453000.0,Basic,Sports,4,20,7976.54,Net Banking,2025-02-13,4.0,40,4.0,No
+C0662,36,Male,Bengaluru,1160000.0,Silver,Sports,7,10,53285.49,Debit Card,2025-11-17,3.0,11,4.0,No
+C0663,27,Female,Pune,831000.0,Basic,Electronics,1,15,12235.26,Credit Card,2025-08-13,2.0,12,3.0,No
+C0664,33,Female,Mumbai,1042000.0,Basic,Clothing,3,5,14347.69,Debit Card,2025-09-10,2.0,37,3.0,No
+C0665,35,Female,Delhi,1109000.0,Basic,Home & Kitchen,3,20,12847.64,UPI,2025-02-13,5.0,21,5.0,No
+C0666,19,Female,Bengaluru,535000.0,Basic,Home & Kitchen,1,10,3230.16,Net Banking,2025-05-05,2.0,55,4.0,No
+C0667,20,Female,Nagpur,537000.0,Basic,Electronics,3,5,43814.23,Net Banking,2025-08-15,2.0,19,3.0,No
+C0668,41,Male,Mumbai,1073000.0,Gold,Grocery,4,20,8555.07,UPI,2025-07-12,6.0,5,3.0,No
+C0669,31,Female,Bengaluru,681000.0,Basic,Electronics,1,20,9460.91,Debit Card,2025-09-11,2.0,7,5.0,No
+C0670,18,Male,Bengaluru,573000.0,Basic,Grocery,3,30,2782.45,UPI,2025-09-02,0.0,13,3.0,No
+C0671,44,Female,Mumbai,1361000.0,Silver,Clothing,5,0,31651.44,Credit Card,2025-05-31,4.0,45,5.0,No
+C0672,39,Male,Delhi,1044000.0,Silver,Electronics,2,5,58781.97,Debit Card,2025-10-13,6.0,25,4.0,No
+C0673,29,Male,Mumbai,648000.0,Basic,Electronics,4,5,57469.06,Net Banking,2025-04-05,3.0,10,4.0,No
+C0674,23,Female,Pune,,Silver,Beauty,3,10,4905.3,UPI,2025-01-30,5.0,37,4.0,No
+C0675,44,Male,Nashik,,Silver,Home & Kitchen,2,15,14657.57,Debit Card,2025-11-30,6.0,4,5.0,No
+C0676,39,Female,Delhi,995000.0,Gold,Sports,3,5,30928.39,Debit Card,2025-01-09,4.0,58,2.0,No
+C0677,60,Male,Mumbai,1395000.0,Gold,Grocery,1,15,3344.35,UPI,2025-04-14,3.0,3,4.0,No
+C0678,40,Female,Mumbai,1037000.0,Silver,Clothing,4,0,16504.52,Debit Card,2025-02-11,3.0,52,3.0,No
+C0679,40,Female,Pune,748000.0,Basic,Clothing,4,15,16205.87,Debit Card,2025-03-26,3.0,7,3.0,Yes
+C0680,34,Male,Delhi,1124000.0,Silver,Grocery,3,20,4309.31,Debit Card,2025-05-25,6.0,25,4.0,No
+C0681,44,Female,Mumbai,1102000.0,Silver,Clothing,3,10,18317.0,Net Banking,2025-02-17,3.0,2,3.0,No
+C0682,42,Male,Nagpur,1098000.0,Gold,Home & Kitchen,4,5,48037.75,UPI,2025-06-20,6.0,7,4.0,No
+C0683,49,Female,Delhi,1210000.0,Silver,Beauty,2,0,6484.65,UPI,2025-12-05,4.0,4,3.0,No
+C0684,31,Female,Pune,1022000.0,Basic,Beauty,2,0,5464.08,UPI,2025-02-19,0.0,82,2.0,No
+C0685,32,Female,Nagpur,778000.0,Silver,Clothing,3,15,16769.63,UPI,2025-12-05,12.0,3,4.0,No
+C0686,31,Male,Nagpur,852000.0,Silver,Grocery,3,10,9278.11,Credit Card,2025-05-31,4.0,10,4.0,No
+C0687,44,Male,Bengaluru,1245000.0,Silver,Clothing,2,0,8418.89,Cash on Delivery,2025-08-05,4.0,2,3.0,No
+C0688,51,Female,Mumbai,1399000.0,Gold,Electronics,3,30,66895.38,Credit Card,2025-06-11,6.0,14,5.0,No
+C0689,31,Female,Mumbai,944000.0,Silver,Home & Kitchen,3,15,18439.63,Debit Card,2025-04-26,10.0,68,5.0,No
+C0690,32,Female,Pune,791000.0,Basic,Grocery,3,20,2861.95,UPI,2025-02-09,3.0,9,4.0,No
+C0691,39,Male,Bengaluru,1324000.0,Gold,Home & Kitchen,2,10,18618.37,UPI,2025-08-05,6.0,84,4.0,No
+C0692,34,Male,Bengaluru,799000.0,Basic,Electronics,2,30,24043.67,Cash on Delivery,2025-12-01,0.0,33,4.0,No
+C0693,46,Female,Pune,1079000.0,Basic,Sports,3,0,10933.19,Debit Card,2025-07-10,,14,4.0,No
+C0694,18,Male,Mumbai,625000.0,Basic,Sports,4,0,15630.62,UPI,2025-08-07,3.0,31,4.0,No
+C0695,28,Male,Delhi,855000.0,Basic,Grocery,4,20,6874.93,Cash on Delivery,2025-08-23,1.0,1,4.0,No
+C0696,28,Female,Pune,690000.0,Silver,Beauty,2,20,3490.02,Credit Card,2025-05-22,2.0,39,3.0,No
+C0697,18,Male,Mumbai,670000.0,Basic,Clothing,3,10,7451.17,UPI,2025-02-14,5.0,16,,No
+C0698,26,Female,Nagpur,622000.0,Gold,Home & Kitchen,1,0,7039.27,Credit Card,2025-07-05,1.0,17,4.0,No
+C0699,27,Male,Mumbai,572000.0,Silver,Beauty,6,10,15139.48,Debit Card,2025-11-14,4.0,27,4.0,No
+C0700,34,Female,Mumbai,955000.0,Gold,Beauty,4,15,12054.93,UPI,2025-04-25,3.0,10,4.0,No
+C0701,47,Female,Mumbai,1058000.0,Gold,Beauty,1,25,4723.08,Cash on Delivery,2025-11-15,5.0,24,3.0,No
+C0702,34,Female,Pune,602000.0,Gold,Grocery,3,10,8140.57,Credit Card,2025-11-08,4.0,45,5.0,No
+C0703,26,Male,Nagpur,668000.0,Basic,Beauty,4,0,5379.6,Credit Card,2025-03-31,6.0,3,3.0,No
+C0704,35,Female,Bengaluru,1029000.0,Basic,Home & Kitchen,1,15,4718.84,Cash on Delivery,2025-07-29,5.0,10,3.0,No
+C0705,46,Female,Nashik,1008000.0,Silver,Electronics,3,15,44655.5,Credit Card,2025-09-30,2.0,40,3.0,No
+C0706,26,Male,Pune,803000.0,Silver,Electronics,2,10,32173.78,Credit Card,2025-06-30,6.0,2,3.0,No
+C0707,27,Male,Delhi,485000.0,Basic,Home & Kitchen,1,10,5461.18,UPI,2025-09-13,3.0,6,4.0,No
+C0708,42,Male,Pune,802000.0,Silver,Grocery,3,35,7904.29,UPI,2025-11-29,5.0,10,5.0,No
+C0709,34,Female,Bengaluru,1231000.0,Gold,Grocery,3,0,9248.37,Credit Card,2025-08-17,5.0,6,4.0,No
+C0710,42,Female,Mumbai,962000.0,Silver,Beauty,1,15,3744.5,UPI,2025-11-02,2.0,16,4.0,No
+C0711,36,Female,Bengaluru,1067000.0,Gold,Grocery,1,15,2215.91,Credit Card,2025-10-20,3.0,33,4.0,No
+C0712,43,Female,Pune,921000.0,Basic,Clothing,1,15,4733.8,UPI,2025-10-24,6.0,29,3.0,No
+C0713,26,Female,Pune,730000.0,Basic,Clothing,3,25,7657.48,UPI,2025-11-08,2.0,87,5.0,No
+C0714,36,Male,Nagpur,706000.0,Gold,Grocery,3,10,6006.33,Credit Card,2025-03-24,1.0,13,5.0,No
+C0715,34,Male,Pune,,Silver,Home & Kitchen,1,10,13835.39,UPI,2025-01-07,5.0,5,4.0,No
+C0716,24,Female,Mumbai,767000.0,Basic,Grocery,2,0,3455.64,Debit Card,2025-02-25,1.0,6,3.0,No
+C0717,20,Male,Bengaluru,586000.0,Basic,Grocery,2,15,1917.58,Debit Card,2025-04-02,8.0,8,3.0,No
+C0718,43,Female,Delhi,928000.0,Basic,Home & Kitchen,5,0,33595.47,UPI,2025-09-09,0.0,19,3.0,No
+C0719,32,Female,Pune,866000.0,Basic,Home & Kitchen,4,0,20603.44,UPI,2025-07-06,0.0,72,3.0,No
+C0720,26,Male,Delhi,574000.0,Basic,Beauty,2,10,2255.57,Credit Card,2025-06-21,4.0,11,4.0,No
+C0721,35,Female,Bengaluru,1020000.0,Basic,Electronics,3,10,65615.62,UPI,2025-01-04,1.0,4,3.0,No
+C0722,47,Male,Delhi,1558000.0,Gold,Home & Kitchen,3,30,31701.76,Credit Card,2025-09-07,6.0,6,3.0,No
+C0723,18,Female,Bengaluru,815000.0,Basic,Grocery,4,15,5507.55,Debit Card,2025-05-13,2.0,1,5.0,No
+C0724,21,Female,Bengaluru,781000.0,Gold,Electronics,2,25,33938.91,Debit Card,2025-10-05,7.0,24,4.0,No
+C0725,27,Female,Nagpur,650000.0,Basic,Home & Kitchen,4,5,17854.94,Credit Card,2025-02-11,3.0,6,4.0,No
+C0726,51,Male,Bengaluru,987000.0,Silver,Home & Kitchen,5,10,48717.68,Net Banking,2025-04-18,6.0,1,3.0,No
+C0727,39,Male,Delhi,810000.0,Basic,Grocery,3,30,3731.56,UPI,2025-01-20,4.0,5,3.0,No
+C0728,44,Male,Pune,1234000.0,Gold,Home & Kitchen,2,10,8569.82,Cash on Delivery,2025-04-14,6.0,15,4.0,No
+C0729,25,Male,Mumbai,649000.0,Basic,Clothing,2,20,12304.94,Cash on Delivery,2025-12-04,2.0,12,3.0,Yes
+C0730,25,Male,Pune,595000.0,Silver,Clothing,2,10,5941.33,Credit Card,2025-06-29,7.0,16,4.0,No
+C0731,40,Male,Delhi,1003000.0,Silver,Clothing,1,0,4460.75,UPI,2025-06-10,3.0,14,4.0,No
+C0732,37,Female,Mumbai,857000.0,Gold,Clothing,3,10,18620.23,UPI,2025-04-10,5.0,9,4.0,No
+C0733,41,Male,Bengaluru,893000.0,Silver,Home & Kitchen,5,0,39334.07,Cash on Delivery,2025-04-07,2.0,21,4.0,No
+C0734,34,Male,Delhi,903000.0,Gold,Beauty,1,0,3935.75,UPI,2025-09-01,3.0,37,5.0,No
+C0735,39,Female,Delhi,874000.0,Basic,Home & Kitchen,5,0,35753.28,Cash on Delivery,2025-12-26,2.0,3,3.0,No
+C0736,38,Female,Pune,823000.0,Basic,Electronics,4,0,37951.99,Credit Card,2025-09-30,3.0,10,4.0,No
+C0737,44,Female,Bengaluru,1020000.0,Silver,Clothing,2,5,9347.9,Credit Card,2025-09-27,6.0,4,4.0,No
+C0738,44,Female,Delhi,1184000.0,Gold,Electronics,4,20,93754.68,Debit Card,2025-06-22,4.0,41,3.0,No
+C0739,20,Female,Pune,575000.0,Basic,Home & Kitchen,3,5,11577.27,UPI,2025-02-06,6.0,8,3.0,No
+C0740,18,Female,Bengaluru,586000.0,Basic,Clothing,6,20,11824.95,Credit Card,2025-09-22,1.0,27,3.0,Yes
+C0741,46,Female,Mumbai,1292000.0,Gold,Grocery,4,15,19039.17,Net Banking,2025-10-23,5.0,7,4.0,No
+C0742,48,Female,Nashik,937000.0,Basic,Home & Kitchen,2,0,10877.19,UPI,2025-07-06,3.0,4,3.0,No
+C0743,26,Male,Nagpur,606000.0,Silver,Home & Kitchen,2,0,10411.97,Cash on Delivery,2025-02-03,4.0,4,4.0,No
+C0744,18,Male,Mumbai,,Silver,Clothing,3,30,7232.81,Net Banking,2025-09-18,10.0,10,5.0,No
+C0745,37,Male,Pune,1016000.0,Silver,Clothing,1,10,5472.71,UPI,2025-12-03,7.0,5,4.0,No
+C0746,45,Male,Pune,1038000.0,Gold,Grocery,9,30,11647.08,Credit Card,2025-03-24,5.0,14,5.0,No
+C0747,54,Female,Pune,1234000.0,Silver,Grocery,6,5,11904.13,UPI,2025-02-28,2.0,30,2.0,Yes
+C0748,41,Male,Nashik,738000.0,Basic,Electronics,7,15,77011.39,Debit Card,2025-09-27,4.0,12,,No
+C0749,32,Male,Mumbai,783000.0,Gold,Beauty,2,15,24791.89,Net Banking,2025-05-02,5.0,6,5.0,No
+C0750,27,Male,Pune,851000.0,Gold,Grocery,2,30,4639.31,Cash on Delivery,2025-09-19,1.0,24,5.0,No
+C0751,36,Female,Bengaluru,1043000.0,Silver,Grocery,3,0,10439.9,Cash on Delivery,2025-09-14,1.0,9,3.0,No
+C0752,33,Male,Bengaluru,984000.0,Silver,Electronics,3,30,50875.85,UPI,2025-04-08,3.0,35,4.0,No
+C0753,26,Female,Nagpur,690000.0,Basic,Clothing,2,5,7658.41,Credit Card,2025-01-16,4.0,5,3.0,No
+C0754,56,Female,Delhi,1346000.0,Basic,Clothing,2,20,6904.74,UPI,2025-07-22,4.0,20,2.0,No
+C0755,54,Male,Mumbai,1472000.0,Silver,Clothing,5,10,19098.3,Cash on Delivery,2025-05-29,4.0,28,,No
+C0756,47,Female,Delhi,1304000.0,Gold,Grocery,4,15,14158.79,UPI,2025-11-09,5.0,119,4.0,No
+C0757,27,Male,Pune,873000.0,Basic,Grocery,2,5,3382.39,UPI,2025-05-11,5.0,12,3.0,No
+C0758,45,Male,Bengaluru,1142000.0,Gold,Beauty,2,20,7215.77,UPI,2025-04-02,3.0,46,4.0,No
+C0759,42,Female,Delhi,1275000.0,Gold,Sports,4,10,43113.72,UPI,2025-11-10,4.0,8,5.0,No
+C0760,40,Female,Delhi,1062000.0,Silver,Clothing,2,10,8173.59,UPI,2025-09-26,7.0,1,3.0,No
+C0761,48,Male,Nashik,1053000.0,Basic,Electronics,3,10,47974.27,UPI,2025-08-14,3.0,1,4.0,No
+C0762,42,Female,Nashik,912000.0,Silver,Home & Kitchen,2,15,22259.75,Cash on Delivery,2025-12-15,6.0,11,3.0,No
+C0763,43,Male,Mumbai,1177000.0,Silver,Sports,3,15,25031.56,Debit Card,2025-10-13,4.0,16,4.0,No
+C0764,42,Female,Bengaluru,986000.0,Silver,Beauty,3,20,8773.78,UPI,2025-11-13,8.0,9,3.0,No
+C0765,39,Female,Bengaluru,1141000.0,Silver,Electronics,2,15,33302.02,Cash on Delivery,2025-10-19,6.0,6,4.0,No
+C0766,18,Female,Delhi,1027000.0,Gold,Clothing,4,15,14208.3,Credit Card,2025-05-27,2.0,23,4.0,No
+C0767,37,Female,Nagpur,760000.0,Basic,Electronics,5,15,44445.87,Debit Card,2025-01-23,4.0,3,3.0,Yes
+C0768,30,Male,Pune,801000.0,Basic,Beauty,2,15,3791.18,UPI,2025-08-10,5.0,45,4.0,No
+C0769,23,Female,Nashik,523000.0,Basic,Grocery,1,25,1524.84,Credit Card,2025-10-07,3.0,5,4.0,No
+C0770,53,Female,Pune,1131000.0,Silver,Grocery,3,10,5855.6,Credit Card,2025-12-28,3.0,56,3.0,No
+C0771,53,Female,Mumbai,1579000.0,Gold,Grocery,4,0,11916.92,UPI,2025-09-06,5.0,23,,No
+C0772,50,Male,Mumbai,1184000.0,Gold,Clothing,2,15,11160.5,Credit Card,2025-07-27,7.0,11,4.0,Yes
+C0773,39,Male,Bengaluru,965000.0,Silver,Grocery,2,0,3375.48,Debit Card,2025-07-30,2.0,1,4.0,No
+C0774,50,Male,Pune,912000.0,Silver,Electronics,2,0,35621.89,Debit Card,2025-02-11,6.0,20,4.0,No
+C0775,36,Male,Pune,784000.0,Basic,Grocery,3,15,3823.51,UPI,2025-01-03,6.0,19,4.0,No
+C0776,38,Male,Pune,678000.0,Basic,Home & Kitchen,3,10,11686.81,Credit Card,2025-01-17,6.0,1,2.0,Yes
+C0777,25,Male,Delhi,831000.0,Silver,Home & Kitchen,4,15,31421.91,Debit Card,2025-11-27,4.0,62,4.0,No
+C0778,40,Female,Bengaluru,1476000.0,Gold,Clothing,3,35,20028.45,UPI,2025-10-16,5.0,10,5.0,No
+C0779,37,Male,Pune,861000.0,Silver,Beauty,3,0,6189.76,UPI,2025-04-05,4.0,1,3.0,No
+C0780,23,Female,Pune,414000.0,Basic,Home & Kitchen,2,0,6865.83,UPI,2025-06-04,4.0,17,4.0,No
+C0781,35,Female,Nagpur,920000.0,Basic,Electronics,5,0,69005.21,UPI,2025-06-26,2.0,29,4.0,No
+C0782,35,Female,Mumbai,865000.0,Basic,Electronics,3,0,32800.79,UPI,2025-04-01,2.0,50,4.0,No
+C0783,54,Male,Nashik,1242000.0,Basic,Grocery,4,15,4120.37,UPI,2025-06-04,2.0,40,4.0,No
+C0784,45,Female,Mumbai,1139000.0,Gold,Clothing,3,15,9470.17,Credit Card,2025-05-07,6.0,19,4.0,No
+C0785,36,Female,Delhi,855000.0,Silver,Electronics,5,10,62717.0,Debit Card,2025-09-11,3.0,8,4.0,No
+C0786,38,Female,Mumbai,1010000.0,Gold,Electronics,3,10,55106.37,Cash on Delivery,2025-10-04,1.0,1,3.0,No
+C0787,36,Female,Bengaluru,1089000.0,Basic,Electronics,1,10,12246.19,Debit Card,2025-02-05,4.0,7,4.0,No
+C0788,34,Female,Pune,828000.0,Gold,Grocery,1,0,3339.34,Credit Card,2025-06-19,4.0,9,3.0,No
+C0789,25,Female,Delhi,661000.0,Basic,Grocery,4,15,4834.78,Net Banking,2025-12-28,6.0,8,4.0,No
+C0790,34,Female,Delhi,881000.0,Silver,Electronics,3,15,50379.92,Debit Card,2025-11-14,3.0,28,2.0,Yes
+C0791,29,Male,Bengaluru,644000.0,Silver,Home & Kitchen,3,5,38992.07,Credit Card,2025-10-17,5.0,79,4.0,No
+C0792,23,Female,Mumbai,786000.0,Basic,Clothing,4,20,12129.05,UPI,2025-09-26,2.0,7,4.0,No
+C0793,41,Female,Pune,720000.0,Basic,Clothing,2,15,5079.77,Debit Card,2025-01-02,2.0,188,4.0,No
+C0794,40,Female,Bengaluru,990000.0,Silver,Clothing,3,5,16718.51,Credit Card,2025-12-22,6.0,40,3.0,No
+C0795,18,Female,Bengaluru,727000.0,Gold,Home & Kitchen,4,15,29896.22,Debit Card,2025-09-26,6.0,2,4.0,No
+C0796,35,Male,Mumbai,1020000.0,Silver,Sports,4,15,38097.14,Cash on Delivery,2025-11-21,2.0,54,,No
+C0797,46,Female,Mumbai,1291000.0,Gold,Grocery,4,5,13727.05,Cash on Delivery,2025-11-28,5.0,8,4.0,No
+C0798,47,Male,Mumbai,1213000.0,Gold,Electronics,2,0,38123.51,Net Banking,2025-04-03,8.0,19,3.0,No
+C0799,46,Male,Delhi,1320000.0,Gold,Clothing,1,15,3927.79,Debit Card,2025-01-06,5.0,20,4.0,No
+C0800,36,Male,Bengaluru,1114000.0,Basic,Electronics,5,30,53914.07,Net Banking,2025-08-29,1.0,71,3.0,No
+C0801,28,Male,Nashik,730000.0,Silver,Beauty,5,10,6693.83,Cash on Delivery,2025-06-17,2.0,42,3.0,No
+C0802,25,Male,Nashik,758000.0,Basic,Electronics,2,10,19849.54,UPI,2025-01-08,2.0,18,2.0,No
+C0803,39,Male,Mumbai,1170000.0,Gold,Sports,3,15,14775.68,Debit Card,2025-04-09,5.0,11,5.0,No
+C0804,40,Female,Mumbai,1012000.0,Silver,Grocery,2,10,6879.26,UPI,2025-12-28,9.0,5,4.0,No
+C0805,49,Female,Pune,930000.0,Basic,Grocery,6,0,8386.47,UPI,2025-05-13,3.0,15,4.0,No
+C0806,47,Male,Bengaluru,1261000.0,Silver,Beauty,3,5,9715.77,UPI,2025-04-06,1.0,31,5.0,No
+C0807,35,Female,Mumbai,1056000.0,Gold,Electronics,1,20,11514.6,Credit Card,2025-08-27,1.0,6,4.0,No
+C0808,24,Male,Mumbai,910000.0,Silver,Home & Kitchen,1,20,5844.29,UPI,2025-08-31,5.0,2,4.0,No
+C0809,33,Female,Mumbai,793000.0,Silver,Electronics,2,30,13898.08,UPI,2025-05-02,5.0,15,4.0,No
+C0810,38,Male,Pune,798000.0,Basic,Beauty,3,5,7220.44,UPI,2025-11-06,5.0,50,3.0,No
+C0811,34,Female,Nashik,821000.0,Basic,Grocery,4,10,10367.99,Debit Card,2025-07-31,3.0,12,4.0,No
+C0812,30,Male,Mumbai,860000.0,Silver,Electronics,6,10,105786.82,Cash on Delivery,2025-02-28,4.0,13,5.0,No
+C0813,39,Female,Pune,669000.0,Basic,Beauty,4,0,7403.35,Net Banking,2025-04-29,2.0,3,3.0,No
+C0814,31,Male,Bengaluru,931000.0,Silver,Electronics,5,5,230357.28,Credit Card,2025-11-06,5.0,7,4.0,No
+C0815,30,Female,Mumbai,593000.0,Silver,Electronics,1,15,8712.87,UPI,2025-02-02,5.0,27,4.0,No
+C0816,39,Male,Mumbai,916000.0,Basic,Home & Kitchen,3,15,20571.28,Cash on Delivery,2025-01-05,5.0,48,4.0,No
+C0817,32,Female,Mumbai,1115000.0,Gold,Grocery,3,15,4936.32,UPI,2025-08-28,7.0,10,4.0,No
+C0818,38,Female,Bengaluru,1290000.0,Gold,Beauty,4,5,12558.17,Net Banking,2025-06-11,6.0,1,4.0,No
+C0819,39,Female,Mumbai,875000.0,Basic,Grocery,1,10,1099.14,Debit Card,2025-04-03,1.0,5,1.0,Yes
+C0820,25,Female,Bengaluru,705000.0,Basic,Grocery,2,0,2947.43,Credit Card,2025-06-22,3.0,2,4.0,No
+C0821,31,Female,Delhi,859000.0,Silver,Clothing,3,0,12806.47,UPI,2025-03-09,3.0,18,,No
+C0822,50,Male,Bengaluru,1525000.0,Gold,Electronics,2,10,38746.7,UPI,2025-05-17,5.0,67,,No
+C0823,24,Male,Mumbai,673000.0,Silver,Sports,3,5,16522.83,Credit Card,2025-03-27,3.0,11,3.0,No
+C0824,18,Male,Bengaluru,541000.0,Basic,Electronics,8,30,50840.83,Credit Card,2025-08-03,3.0,23,3.0,No
+C0825,18,Male,Mumbai,855000.0,Basic,Grocery,6,10,9908.47,Cash on Delivery,2025-09-03,3.0,1,3.0,No
+C0826,36,Female,Mumbai,939000.0,Gold,Clothing,3,5,25986.43,Debit Card,2025-11-30,6.0,9,4.0,No
+C0827,36,Female,Nagpur,909000.0,Silver,Clothing,3,0,8966.01,Credit Card,2025-01-25,10.0,8,3.0,No
+C0828,35,Female,Mumbai,753000.0,Gold,Grocery,4,15,6580.39,UPI,2025-04-30,4.0,10,4.0,No
+C0829,48,Female,Pune,1088000.0,Basic,Home & Kitchen,1,0,6659.23,Credit Card,2025-04-07,4.0,1,3.0,No
+C0830,18,Female,Mumbai,374000.0,Basic,Home & Kitchen,3,0,13528.1,UPI,2025-07-31,4.0,27,4.0,No
+C0831,40,Female,Pune,812000.0,Silver,Beauty,3,10,9541.78,Debit Card,2025-07-14,6.0,59,3.0,No
+C0832,52,Female,Mumbai,1452000.0,Gold,Clothing,1,10,7875.27,Debit Card,2025-11-17,5.0,19,3.0,Yes
+C0833,25,Male,Nagpur,625000.0,Basic,Grocery,2,10,3245.85,Cash on Delivery,2025-12-02,6.0,13,4.0,No
+C0834,32,Female,Delhi,824000.0,Silver,Electronics,1,15,14013.75,Credit Card,2025-10-10,2.0,8,,No
+C0835,28,Female,Pune,642000.0,Silver,Home & Kitchen,3,0,19344.57,UPI,2025-03-14,2.0,39,3.0,No
+C0836,27,Male,Nashik,615000.0,Basic,Clothing,4,15,9556.76,Cash on Delivery,2025-01-15,2.0,26,3.0,No
+C0837,33,Male,Mumbai,978000.0,Gold,Grocery,2,15,5699.45,Debit Card,2025-11-25,3.0,41,4.0,No
+C0838,50,Female,Pune,1297000.0,Silver,Electronics,3,10,67850.45,Debit Card,2025-12-11,7.0,26,3.0,No
+C0839,54,Female,Mumbai,974000.0,Basic,Beauty,4,0,10588.38,Credit Card,2025-04-02,3.0,35,3.0,No
+C0840,33,Female,Pune,719000.0,Gold,Beauty,5,15,10755.63,Cash on Delivery,2025-01-18,5.0,4,3.0,No
+C0841,55,Female,Pune,1264000.0,Silver,Beauty,5,5,12103.47,UPI,2025-09-06,9.0,33,4.0,No
+C0842,36,Male,Mumbai,980000.0,Basic,Electronics,3,10,42349.53,Credit Card,2025-08-03,6.0,8,4.0,No
+C0843,54,Male,Mumbai,1428000.0,Gold,Sports,2,10,9162.84,Cash on Delivery,2025-11-21,2.0,8,2.0,No
+C0844,35,Female,Nagpur,826000.0,Silver,Clothing,7,30,17393.11,UPI,2025-07-30,4.0,47,3.0,Yes
+C0845,37,Female,Pune,870000.0,Basic,Clothing,4,5,13852.52,Cash on Delivery,2025-10-05,5.0,8,4.0,No
+C0846,40,Female,Pune,891000.0,Silver,Clothing,3,25,17592.67,UPI,2025-10-15,5.0,9,5.0,No
+C0847,65,Female,Pune,1383000.0,Gold,Clothing,4,20,19135.16,UPI,2025-01-04,2.0,42,3.0,No
+C0848,45,Male,Nagpur,1111000.0,Gold,Grocery,4,10,8869.8,UPI,2025-02-24,4.0,3,4.0,No
+C0849,29,Female,Mumbai,740000.0,Basic,Clothing,2,10,7972.54,Cash on Delivery,2025-10-12,3.0,47,4.0,Yes
+C0850,46,Male,Nagpur,944000.0,Gold,Clothing,4,5,18062.27,Debit Card,2025-03-07,5.0,4,3.0,No
+C0851,32,Male,Mumbai,940000.0,Silver,Grocery,3,30,3960.86,UPI,2025-03-17,3.0,32,5.0,No
+C0852,31,Male,Pune,1042000.0,Gold,Beauty,2,15,8248.01,UPI,2025-10-02,5.0,16,4.0,No
+C0853,45,Male,Delhi,1080000.0,Basic,Home & Kitchen,2,10,10602.87,UPI,2025-03-16,2.0,5,4.0,No
+C0854,36,Female,Pune,1042000.0,Silver,Grocery,5,0,9863.38,UPI,2025-02-24,2.0,20,3.0,No
+C0855,39,Male,Pune,1137000.0,Silver,Electronics,1,20,11088.5,Debit Card,2025-01-05,2.0,23,4.0,No
+C0856,36,Male,Pune,888000.0,Gold,Beauty,2,0,4368.15,UPI,2025-06-21,6.0,25,4.0,No
+C0857,39,Female,Delhi,977000.0,Basic,Electronics,4,0,57093.78,UPI,2025-08-21,2.0,84,5.0,No
+C0858,40,Female,Nashik,791000.0,Silver,Clothing,3,5,12429.58,UPI,2025-09-25,2.0,32,4.0,No
+C0859,18,Male,Nashik,477000.0,Basic,Electronics,1,15,7887.69,Credit Card,2025-11-27,5.0,2,4.0,No
+C0860,43,Male,Delhi,1214000.0,Silver,Grocery,2,20,4586.3,Debit Card,2025-08-26,,24,5.0,No
+C0861,26,Male,Pune,753000.0,Basic,Clothing,2,20,8759.11,Debit Card,2025-10-04,3.0,8,5.0,No
+C0862,22,Female,Delhi,713000.0,Gold,Grocery,1,0,2897.37,Credit Card,2025-03-18,8.0,33,4.0,No
+C0863,35,Male,Pune,711000.0,Basic,Clothing,4,5,11999.81,Net Banking,2025-05-05,2.0,8,3.0,No
+C0864,37,Male,Nashik,651000.0,Basic,Grocery,3,15,4412.08,Credit Card,2025-04-21,0.0,64,3.0,No
+C0865,29,Male,Mumbai,1172000.0,Basic,Grocery,2,10,6153.4,Cash on Delivery,2025-01-24,1.0,11,2.0,No
+C0866,44,Female,Mumbai,1134000.0,Basic,Electronics,6,0,531421.68,Debit Card,2025-12-20,7.0,5,3.0,No
+C0867,23,Male,Delhi,581000.0,Basic,Grocery,4,5,4078.3,UPI,2025-03-30,2.0,35,4.0,No
+C0868,32,Female,Pune,1041000.0,Basic,Grocery,2,15,1945.36,Cash on Delivery,2025-06-13,5.0,32,4.0,No
+C0869,30,Male,Delhi,875000.0,Basic,Grocery,2,30,3343.0,Credit Card,2025-05-11,3.0,10,3.0,No
+C0870,36,Female,Mumbai,1082000.0,Basic,Electronics,3,15,58707.74,Debit Card,2025-01-17,6.0,15,4.0,No
+C0871,39,Male,Nashik,805000.0,Basic,Grocery,2,5,3339.95,UPI,2025-11-26,6.0,5,3.0,No
+C0872,26,Male,Delhi,708000.0,Silver,Clothing,4,15,10833.34,Credit Card,2025-03-22,3.0,40,4.0,No
+C0873,43,Male,Pune,999000.0,Silver,Electronics,4,5,58609.56,Cash on Delivery,2025-02-06,7.0,17,3.0,No
+C0874,37,Female,Delhi,762000.0,Silver,Electronics,4,20,57130.89,UPI,2025-05-05,0.0,16,4.0,No
+C0875,18,Female,Nagpur,512000.0,Basic,Grocery,1,5,901.02,UPI,2025-02-22,4.0,35,4.0,No
+C0876,18,Male,Bengaluru,657000.0,Basic,Clothing,1,0,2583.73,UPI,2025-12-31,2.0,47,3.0,No
+C0877,36,Male,Pune,1176000.0,Basic,Home & Kitchen,5,10,52846.07,Credit Card,2025-03-10,5.0,3,5.0,No
+C0878,34,Female,Nagpur,783000.0,Basic,Clothing,3,5,10526.76,Cash on Delivery,2025-04-21,1.0,27,3.0,No
+C0879,35,Female,Bengaluru,605000.0,Silver,Home & Kitchen,2,0,12914.8,Debit Card,2025-04-09,3.0,20,3.0,No
+C0880,36,Male,Mumbai,981000.0,Gold,Clothing,6,10,28847.21,Cash on Delivery,2025-01-10,6.0,5,4.0,No
+C0881,38,Male,Pune,1345000.0,Gold,Grocery,4,15,11913.67,Credit Card,2025-01-05,5.0,21,4.0,No
+C0882,45,Female,Mumbai,1311000.0,Silver,Home & Kitchen,2,20,9297.39,Credit Card,2025-07-07,3.0,10,4.0,No
+C0883,25,Female,Delhi,614000.0,Basic,Clothing,5,5,11644.73,UPI,2025-03-26,4.0,38,3.0,No
+C0884,24,Female,Pune,771000.0,Basic,Electronics,1,0,12821.61,UPI,2025-01-31,4.0,26,4.0,No
+C0885,25,Female,Bengaluru,643000.0,Basic,Grocery,2,10,1496.1,Debit Card,2025-04-17,5.0,41,5.0,No
+C0886,39,Female,Delhi,805000.0,Gold,Sports,3,10,15100.45,UPI,2025-04-11,2.0,26,3.0,No
+C0887,48,Male,Pune,1062000.0,Basic,Sports,3,0,11613.68,UPI,2025-06-04,0.0,60,4.0,No
+C0888,32,Male,Pune,840000.0,Basic,Clothing,5,20,17714.25,Cash on Delivery,2025-12-29,5.0,2,3.0,No
+C0889,18,Male,Bengaluru,332000.0,Basic,Home & Kitchen,4,30,8854.33,Credit Card,2025-04-23,5.0,6,5.0,No
+C0890,19,Male,Pune,420000.0,Basic,Clothing,2,0,3901.04,UPI,2025-09-15,2.0,15,4.0,No
+C0891,28,Male,Nashik,665000.0,Basic,Electronics,3,20,23830.28,Debit Card,2025-10-08,2.0,1,4.0,No
+C0892,30,Male,Bengaluru,794000.0,Basic,Grocery,6,15,8616.65,Credit Card,2025-01-19,4.0,77,3.0,No
+C0893,32,Female,Nashik,782000.0,Basic,Grocery,5,5,7126.13,Cash on Delivery,2025-07-02,0.0,31,2.0,No
+C0894,36,Male,Mumbai,813000.0,Basic,Grocery,2,15,1788.79,Debit Card,2025-06-13,3.0,48,4.0,No
+C0895,33,Male,Bengaluru,1022000.0,Gold,Beauty,5,0,17643.05,UPI,2025-07-05,7.0,2,3.0,No
+C0896,46,Female,Nashik,751000.0,Silver,Clothing,2,0,7312.41,UPI,2025-03-04,5.0,10,2.0,Yes
+C0897,29,Female,Pune,1018000.0,Gold,Grocery,1,30,1523.33,UPI,2025-06-19,1.0,65,4.0,No
+C0898,27,Female,Nagpur,406000.0,Basic,Clothing,4,15,4877.68,Debit Card,2025-02-14,2.0,10,4.0,No
+C0899,41,Female,Delhi,883000.0,Silver,Electronics,4,5,95676.94,Credit Card,2025-12-12,3.0,4,4.0,No
+C0900,21,Female,Bengaluru,736000.0,Basic,Clothing,2,10,4380.14,Debit Card,2025-08-03,4.0,21,3.0,No
+C0901,40,Male,Nagpur,1112000.0,Silver,Sports,1,30,4033.51,Credit Card,2025-01-13,6.0,12,4.0,No
+C0902,37,Male,Mumbai,1063000.0,Gold,Grocery,3,10,6116.56,UPI,2025-07-04,4.0,4,3.0,No
+C0903,35,Female,Pune,964000.0,Silver,Electronics,3,20,48301.11,UPI,2025-12-05,7.0,30,4.0,No
+C0904,52,Male,Mumbai,1329000.0,Silver,Home & Kitchen,2,20,18231.97,UPI,2025-09-29,5.0,23,4.0,No
+C0905,30,Male,Pune,636000.0,Basic,Sports,4,5,15823.93,Credit Card,2025-04-10,4.0,90,4.0,No
+C0906,57,Male,Delhi,1285000.0,Basic,Beauty,3,20,11383.79,Credit Card,2025-11-22,4.0,7,5.0,No
+C0907,34,Male,Mumbai,772000.0,Basic,Grocery,3,15,4450.02,Net Banking,2025-03-09,4.0,33,3.0,Yes
+C0908,23,Male,Bengaluru,522000.0,Basic,Clothing,5,15,13088.46,UPI,2025-04-01,5.0,38,3.0,No
+C0909,37,Male,Pune,976000.0,Silver,Grocery,3,5,3880.69,Debit Card,2025-02-26,2.0,45,2.0,No
+C0910,25,Female,Mumbai,599000.0,Silver,Beauty,4,0,10612.34,UPI,2025-12-03,4.0,20,2.0,No
+C0911,28,Female,Mumbai,878000.0,Silver,Beauty,1,0,2435.04,Debit Card,2025-09-19,3.0,43,3.0,No
+C0912,40,Male,Mumbai,883000.0,Silver,Beauty,1,10,3156.89,UPI,2025-07-09,2.0,15,3.0,No
+C0913,42,Female,Bengaluru,1141000.0,Basic,Grocery,3,15,4388.97,Debit Card,2025-09-01,4.0,11,3.0,No
+C0914,30,Male,Delhi,760000.0,Basic,Electronics,4,15,45044.36,UPI,2025-04-05,2.0,9,3.0,No
+C0915,46,Female,Delhi,1355000.0,Gold,Grocery,3,10,8942.9,UPI,2025-01-26,11.0,16,5.0,No
+C0916,48,Female,Pune,1163000.0,Silver,Electronics,2,5,61822.88,Credit Card,2025-11-05,3.0,137,4.0,No
+C0917,50,Male,Bengaluru,1443000.0,Gold,Electronics,1,0,32804.61,UPI,2025-12-18,5.0,17,3.0,No
+C0918,41,Female,Pune,875000.0,Silver,Grocery,3,15,6311.66,Credit Card,2025-01-13,5.0,10,3.0,No
+C0919,50,Female,Delhi,1230000.0,Silver,Grocery,4,10,5608.87,UPI,2025-01-19,3.0,1,4.0,No
+C0920,18,Female,Nagpur,378000.0,Basic,Beauty,1,15,815.69,Net Banking,2025-07-24,4.0,10,3.0,Yes
+C0921,33,Female,Mumbai,871000.0,Gold,Home & Kitchen,4,0,19539.38,UPI,2025-01-16,4.0,7,3.0,No
+C0922,27,Female,Pune,697000.0,Basic,Beauty,5,10,10684.74,Credit Card,2025-09-21,3.0,42,3.0,No
+C0923,37,Male,Pune,807000.0,Gold,Home & Kitchen,1,20,10635.44,Cash on Delivery,2025-12-12,5.0,18,5.0,No
+C0924,30,Female,Mumbai,689000.0,Silver,Home & Kitchen,2,0,15394.09,Debit Card,2025-04-13,3.0,4,4.0,No
+C0925,34,Female,Delhi,699000.0,Basic,Electronics,4,0,40156.23,UPI,2025-04-18,6.0,18,3.0,No
+C0926,55,Female,Bengaluru,1008000.0,Basic,Grocery,6,20,10333.83,Credit Card,2025-11-12,3.0,20,4.0,No
+C0927,34,Male,Delhi,753000.0,Basic,Electronics,4,10,38796.97,UPI,2025-05-11,3.0,1,4.0,No
+C0928,40,Female,Pune,1064000.0,Basic,Electronics,3,30,44201.37,Credit Card,2025-03-29,3.0,2,3.0,No
+C0929,34,Male,Nashik,512000.0,Basic,Electronics,2,20,24868.98,Credit Card,2025-01-31,6.0,33,3.0,No
+C0930,37,Female,Mumbai,811000.0,Silver,Beauty,4,20,13042.46,Debit Card,2025-11-03,3.0,2,3.0,No
+C0931,36,Male,Nagpur,1069000.0,Gold,Home & Kitchen,4,0,56179.17,Cash on Delivery,2025-12-04,1.0,4,4.0,No
+C0932,40,Female,Mumbai,983000.0,Silver,Sports,1,10,6701.47,UPI,2025-01-29,2.0,24,5.0,No
+C0933,48,Female,Mumbai,1292000.0,Silver,Sports,4,25,23225.87,UPI,2025-10-21,3.0,55,3.0,No
+C0934,52,Male,Nashik,1114000.0,Basic,Beauty,6,10,12077.81,Credit Card,2025-02-28,2.0,8,3.0,No
+C0935,39,Female,Pune,1051000.0,Silver,Electronics,4,30,46508.25,Credit Card,2025-02-20,6.0,14,5.0,No
+C0936,42,Male,Mumbai,891000.0,Silver,Beauty,4,15,6216.94,UPI,2025-05-20,4.0,25,4.0,No
+C0937,24,Female,Bengaluru,699000.0,Basic,Beauty,4,0,6731.9,Debit Card,2025-06-09,3.0,9,,No
+C0938,35,Female,Pune,637000.0,Gold,Beauty,4,15,9520.29,Credit Card,2025-11-08,0.0,51,4.0,No
+C0939,45,Male,Delhi,1492000.0,Gold,Electronics,5,15,140297.9,Net Banking,2025-09-13,3.0,41,4.0,No
+C0940,45,Male,Nagpur,699000.0,Silver,Electronics,1,0,16026.83,Credit Card,2025-02-22,3.0,20,3.0,No
+C0941,38,Male,Bengaluru,859000.0,Basic,Sports,2,5,11509.21,UPI,2025-08-02,4.0,69,4.0,No
+C0942,45,Male,Bengaluru,1001000.0,Silver,Electronics,3,20,36094.74,UPI,2025-11-16,3.0,4,3.0,No
+C0943,41,Female,Bengaluru,852000.0,Silver,Clothing,4,0,26976.68,Debit Card,2025-08-30,5.0,30,3.0,No
+C0944,48,Female,Bengaluru,1421000.0,Silver,Grocery,2,5,3288.86,UPI,2025-03-25,4.0,7,3.0,No
+C0945,39,Male,Delhi,1372000.0,Gold,Electronics,4,15,61736.27,UPI,2025-02-17,4.0,44,3.0,No
+C0946,32,Female,Nashik,651000.0,Basic,Electronics,3,15,22551.02,UPI,2025-06-15,3.0,18,2.0,No
+C0947,39,Male,Mumbai,,Basic,Sports,4,10,19037.42,Debit Card,2025-06-22,7.0,17,4.0,No
+C0948,18,Female,Pune,238000.0,Basic,Beauty,3,30,2279.5,Net Banking,2025-05-09,5.0,2,3.0,No
+C0949,40,Male,Nashik,804000.0,Silver,Beauty,2,30,3246.84,UPI,2025-02-09,2.0,29,5.0,No
+C0950,18,Female,Pune,527000.0,Basic,Clothing,3,10,6206.75,UPI,2025-02-13,3.0,5,5.0,No
+C0951,19,Female,Mumbai,546000.0,Basic,Clothing,4,0,8089.46,Credit Card,2025-07-13,3.0,42,3.0,Yes
+C0952,41,Male,Pune,1021000.0,Silver,Grocery,2,15,6622.05,UPI,2025-12-11,2.0,27,5.0,No
+C0953,41,Female,Nagpur,937000.0,Gold,Grocery,4,0,12713.77,Net Banking,2025-08-07,2.0,7,4.0,No
+C0954,24,Female,Pune,730000.0,Basic,Electronics,2,20,24539.31,Credit Card,2025-06-09,4.0,17,3.0,No
+C0955,29,Male,Nashik,631000.0,Silver,Home & Kitchen,3,10,23694.03,Debit Card,2025-12-06,4.0,36,2.0,Yes
+C0956,50,Male,Bengaluru,1093000.0,Gold,Sports,3,5,10348.22,Cash on Delivery,2025-09-09,4.0,14,4.0,No
+C0957,31,Female,Delhi,953000.0,Basic,Grocery,2,10,2354.14,Debit Card,2025-09-20,3.0,55,4.0,No
+C0958,58,Male,Mumbai,1452000.0,Silver,Clothing,1,10,5532.65,UPI,2025-07-29,7.0,11,4.0,Yes
+C0959,36,Male,Nagpur,934000.0,Gold,Clothing,1,35,4389.59,Debit Card,2025-10-06,3.0,1,4.0,No
+C0960,40,Male,Nagpur,981000.0,Gold,Electronics,5,0,90077.86,Credit Card,2025-07-03,3.0,27,3.0,No
+C0961,52,Female,Nagpur,832000.0,Silver,Clothing,6,30,13205.78,Credit Card,2025-08-16,7.0,5,4.0,No
+C0962,37,Male,Bengaluru,781000.0,Gold,Grocery,3,0,9035.74,Net Banking,2025-08-14,7.0,26,4.0,No
+C0963,26,Male,Pune,605000.0,Silver,Grocery,7,20,14179.26,UPI,2025-10-02,7.0,8,3.0,No
+C0964,35,Female,Delhi,772000.0,Silver,Grocery,2,25,4338.84,Credit Card,2025-11-24,2.0,67,4.0,No
+C0965,36,Female,Pune,1011000.0,Basic,Beauty,1,5,1905.04,UPI,2025-04-18,4.0,7,2.0,No
+C0966,22,Female,Delhi,730000.0,Gold,Clothing,4,0,20277.12,UPI,2025-09-13,4.0,30,4.0,No
+C0967,33,Male,Nashik,902000.0,Silver,Electronics,2,20,18199.37,Debit Card,2025-01-12,5.0,25,3.0,No
+C0968,29,Female,Mumbai,,Basic,Electronics,4,20,42031.29,Debit Card,2025-07-14,3.0,8,4.0,No
+C0969,45,Female,Bengaluru,1188000.0,Silver,Electronics,2,10,23557.38,Debit Card,2025-11-25,3.0,32,3.0,Yes
+C0970,36,Male,Pune,,Gold,Grocery,3,10,5093.9,UPI,2025-08-24,2.0,3,4.0,No
+C0971,33,Female,Bengaluru,986000.0,Basic,Beauty,3,20,5137.51,UPI,2025-04-08,3.0,10,5.0,No
+C0972,35,Female,Nashik,777000.0,Silver,Beauty,3,0,13163.94,Credit Card,2025-08-10,3.0,45,3.0,No
+C0973,38,Male,Pune,,Silver,Grocery,2,15,2256.22,Credit Card,2025-05-11,2.0,3,,No
+C0974,42,Male,Pune,1023000.0,Gold,Clothing,2,10,6816.75,Debit Card,2025-06-08,5.0,22,4.0,No
+C0975,26,Female,Bengaluru,729000.0,Basic,Electronics,2,0,25640.57,Debit Card,2025-03-25,4.0,2,2.0,No
+C0976,26,Male,Mumbai,663000.0,Basic,Clothing,3,20,11741.79,Cash on Delivery,2025-08-17,3.0,11,4.0,No
+C0977,47,Male,Delhi,1269000.0,Silver,Clothing,3,5,15337.72,Cash on Delivery,2025-03-14,1.0,35,4.0,No
+C0978,32,Male,Bengaluru,1081000.0,Silver,Beauty,5,30,10730.9,UPI,2025-06-11,2.0,4,4.0,No
+C0979,22,Male,Bengaluru,686000.0,Gold,Grocery,4,10,9948.94,Debit Card,2025-12-09,6.0,19,2.0,No
+C0980,40,Male,Mumbai,1274000.0,Gold,Clothing,5,15,32360.26,Debit Card,2025-10-04,5.0,1,4.0,No
+C0981,41,Female,Bengaluru,781000.0,Silver,Clothing,3,10,9956.1,Net Banking,2025-06-01,6.0,1,3.0,No
+C0982,21,Male,Delhi,650000.0,Basic,Electronics,2,10,23636.76,Credit Card,2025-12-20,5.0,8,4.0,Yes
+C0983,38,Male,Pune,928000.0,Gold,Beauty,2,20,6347.74,Debit Card,2025-01-06,3.0,1,5.0,No
+C0984,43,Female,Mumbai,1031000.0,Gold,Electronics,2,15,32621.38,Credit Card,2025-12-17,2.0,20,4.0,No
+C0985,40,Male,Mumbai,1436000.0,Silver,Electronics,2,15,38324.52,Debit Card,2025-05-09,5.0,9,3.0,No
+C0986,42,Female,Mumbai,1109000.0,Silver,Electronics,3,15,61261.42,Cash on Delivery,2025-10-27,4.0,6,4.0,No
+C0987,22,Male,Bengaluru,632000.0,Basic,Beauty,3,5,6773.64,Cash on Delivery,2025-12-12,3.0,9,3.0,No
+C0988,39,Male,Nagpur,851000.0,Gold,Grocery,1,0,1645.18,UPI,2025-08-08,6.0,7,5.0,No
+C0989,33,Male,Nashik,437000.0,Gold,Grocery,4,15,4731.23,UPI,2025-08-11,5.0,2,4.0,No
+C0990,31,Male,Mumbai,778000.0,Silver,Clothing,2,15,12406.49,Debit Card,2025-10-01,,5,4.0,No
+C0991,45,Male,Pune,1207000.0,Basic,Electronics,2,10,26697.82,Debit Card,2025-03-29,4.0,6,3.0,No
+C0992,51,Female,Mumbai,1211000.0,Gold,Beauty,4,10,14594.53,Cash on Delivery,2025-03-06,9.0,8,5.0,No
+C0993,54,Male,Delhi,1175000.0,Silver,Electronics,2,10,23584.08,UPI,2025-05-06,4.0,31,4.0,No
+C0994,49,Female,Nashik,1170000.0,Silver,Electronics,2,15,27492.16,Cash on Delivery,2025-06-24,5.0,36,4.0,No
+C0995,35,Female,Mumbai,1176000.0,Gold,Grocery,1,10,1862.52,Debit Card,2025-09-29,5.0,12,4.0,No
+C0996,40,Male,Bengaluru,1134000.0,Gold,Electronics,2,30,31971.88,UPI,2025-04-04,4.0,8,4.0,No
+C0997,44,Female,Pune,974000.0,Basic,Electronics,4,0,61599.79,UPI,2025-07-26,2.0,11,4.0,No
+C0998,37,Male,Mumbai,980000.0,Basic,Beauty,3,10,6766.82,Debit Card,2025-01-02,0.0,36,5.0,No
+C0999,37,Male,Mumbai,895000.0,Silver,Grocery,2,0,3247.58,UPI,2025-01-12,5.0,5,4.0,No
+C1000,44,Male,Delhi,956000.0,Silver,Clothing,1,20,4403.01,Cash on Delivery,2025-12-19,3.0,52,3.0,No
